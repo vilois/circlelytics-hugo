@@ -3,8 +3,8 @@ backend:
   repo: vilois/circlelytics-hugo
   branch: master
   api_root: https://api.netlify.com
-  site_id: your-site-id
-  
+  site_id: wondrous-llama-f95062
+
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
