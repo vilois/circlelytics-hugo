@@ -22,7 +22,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Twitter Shortcode
 
-{{< x site="twitter" user="someuser" id="1234567890" >}}
+{{< twitter user="someuser" id="1234567890" >}}
 
 <br>
 
