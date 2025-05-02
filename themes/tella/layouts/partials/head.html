@@ -10,7 +10,8 @@
 {{ end }}
 {{ $styles := resources.Get "css/style.css" | postCSS }}
 
-<link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+{{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
 
 {{ if .IsHome }}
 <link rel="stylesheet" href='{{ "/css/swiper-bundle.min.css" | relURL }}'>
