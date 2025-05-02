@@ -28,3 +28,6 @@ HUGO_VERSION = "0.90.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[build.environment]
+NODE_VERSION = "18"
