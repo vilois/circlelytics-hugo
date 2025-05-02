@@ -135,6 +135,13 @@
       <description></description>
     </item>
     <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xA;&lt;form name=&#34;contact&#34; action=&#34;https://getform.io/&#34; method=&#34;POST&#34;&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Email&#34; name=&#34;mail&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Title&#34; name=&#34;title&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;textarea rows=&#34;5&#34; cols=&#34;30&#34; placeholder=&#34;Message&#34; name=&#34;message&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&lt;/textarea&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34; class=&#34;px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400&#34;&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
       <title>Posts Archive</title>
       <link>http://localhost:1313/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
