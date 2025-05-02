@@ -2,7 +2,7 @@ backend:
   name: github
   repo: vilois/circlelytics-hugo
   branch: master
-  base_url: https://wondrous-llama-f95062.netlify.app/
+  base_url: https://wondrous-llama-f95062.netlify.app/admin
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
