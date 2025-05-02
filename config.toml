@@ -1,4 +1,4 @@
-theme = "hugo-universal-theme"
+theme = "hugo-theme-cleanwhite"
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "My Hugo Site"
