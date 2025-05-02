@@ -9,7 +9,7 @@
   "scripts": {
     "start": "concurrently npm:watch:*",
     "watch:tw": "tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css --watch",
-    "watch:hugo": "hugo server",
+    "watch:hugo": "hugo server --config config.toml",
     "build": "tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css && hugo --minify"
   },
   "devDependencies": {
