@@ -1,152 +1,229 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tella</title>
-    <link>https://wondrous-llama-f95062.netlify.app/</link>
-    <description>Recent content on Tella</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 01 May 2025 13:28:09 +0200</lastBuildDate>
-    <atom:link href="https://wondrous-llama-f95062.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Example Project</title>
-      <link>https://wondrous-llama-f95062.netlify.app/products/example/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/products/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://wondrous-llama-f95062.netlify.app/posts/my-first-post/</link>
-      <pubDate>Thu, 01 May 2025 13:28:09 +0200</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is my first post sadfjsdakjlfdsaf and again a new file&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://wondrous-llama-f95062.netlify.app/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>https://wondrous-llama-f95062.netlify.app/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://wondrous-llama-f95062.netlify.app/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://wondrous-llama-f95062.netlify.app/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/blog/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>https://wondrous-llama-f95062.netlify.app/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fancy App 1</title>
-      <link>https://wondrous-llama-f95062.netlify.app/itemized/item1/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/itemized/item1/</guid>
-      <description>&lt;h2 id=&#34;app-1&#34;&gt;App 1&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Fancy App 2</title>
-      <link>https://wondrous-llama-f95062.netlify.app/itemized/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/itemized/item2/</guid>
-      <description>&lt;h2 id=&#34;app-2&#34;&gt;App 2&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Fancy App 3</title>
-      <link>https://wondrous-llama-f95062.netlify.app/itemized/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/itemized/item3/</guid>
-      <description>&lt;h2 id=&#34;app-3&#34;&gt;App 3&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Fancy App 4</title>
-      <link>https://wondrous-llama-f95062.netlify.app/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/itemized/item4/</guid>
-      <description>&lt;h2 id=&#34;app-4&#34;&gt;App 4&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://wondrous-llama-f95062.netlify.app/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/blog/creating-a-new-theme/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://wondrous-llama-f95062.netlify.app/blog/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/blog/goisforlovers/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://wondrous-llama-f95062.netlify.app/blog/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/blog/hugoisforlovers/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your os and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://wondrous-llama-f95062.netlify.app/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://wondrous-llama-f95062.netlify.app/blog/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/blog/migrate-from-jekyll/</guid>
-      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xA;    ▾ images/&#xA;        logo.png&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://wondrous-llama-f95062.netlify.app/about/index-zh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/about/index-zh/</guid>
-      <description>&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;&#xA;&lt;p&gt;Hi，我是赵化冰，服务网格技术布道者及实践者，&lt;a href=&#34;https://cloud.tencent.com/product/tcm&#34;&gt;腾讯云&lt;/a&gt;工程师，曾担任&lt;a href=&#34;https://www.zte.com.cn/&#34;&gt;中兴通讯&lt;/a&gt;技术专家，Linux 基金会开源项目 &lt;a href=&#34;https://www.onap.org/&#34;&gt;ONAP&lt;/a&gt; 项目 leader，甲骨文中间件高级顾问等。我创建了服务网格开源项目 &lt;a href=&#34;https://aeraki.net&#34;&gt;Aeraki Mesh&lt;/a&gt;（CNCF Sandbox 项目），可以在 Istio 中管理 Dubbo、Thrift、Redis 以及任意私有协议的流量。&lt;/p&gt;&#xA;&lt;p&gt;工作联系： &lt;a href=&#34;mailto:zhaohuabing@gmail.com&#34;&gt;zhaohuabing@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;出版物&#34;&gt;出版物&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;标题&lt;/th&gt;&#xA;          &lt;th&gt;类型&lt;/th&gt;&#xA;          &lt;th&gt;出版社&lt;/th&gt;&#xA;          &lt;th&gt;链接&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.zhaohuabing.com/post/2021-08-26-istio-handbook/&#34;&gt;深入理解 Istio — 云原生服务网格进阶实战&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;实体书籍&lt;/td&gt;&#xA;          &lt;td&gt;电子工业出版社&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://item.jd.com/13200745.html&#34;&gt;购买链接&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.zhaohuabing.com/post/2021-09-08-distributed-tracing-with-jaeger-kubernetes-and-istio/&#34;&gt;Distributed Tracing with Jaeger, Kubernetes, and Istio&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;在线教程&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.manning.com/&#34;&gt;曼宁出版社（美）&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.manning.com/liveprojectseries/distributed-tracing-ser&#34;&gt;30% 折扣&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://zhaohuabing.com/post/2021-08-27-cloud-native-data-center&#34;&gt;云原生数据中心网络&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;翻译书籍&lt;/td&gt;&#xA;          &lt;td&gt;中国电力出版社&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://item.jd.com/12929975.html&#34;&gt;购买链接&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://istio-operation-bible.aeraki.net&#34;&gt;Istio 运维实战&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;电子书籍&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://istio-operation-bible.aeraki.net&#34;&gt;在线阅读&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;演讲分享-部分&#34;&gt;演讲分享 (部分)&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;年份&lt;/th&gt;&#xA;          &lt;th&gt;城市&lt;/th&gt;&#xA;          &lt;th&gt;会议&lt;/th&gt;&#xA;          &lt;th&gt;分享主题&lt;/th&gt;&#xA;          &lt;th&gt;讲稿&lt;/th&gt;&#xA;          &lt;th&gt;视频&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2022&lt;/td&gt;&#xA;          &lt;td&gt;线上&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://events.istio.io/istiocon-2022&#34;&gt;IstioCon&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://events.istio.io/istiocon-2022/sessions/tencent-music-aeraki/&#34;&gt;Istio + Aeraki 在腾讯音乐的服务网格落地&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wondrous-llama-f95062.netlify.app/slides/tencent-music-service-mesh-practice-with-istio-and-aeraki.pdf&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6t_yPsq4Pi4&#34;&gt;观看&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2022&lt;/td&gt;&#xA;          &lt;td&gt;线上&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://a2m.msup.com.cn/course?aid=2699&amp;amp;cid=15382&#34;&gt;A2M&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://a2m.msup.com.cn/course?aid=2699&amp;amp;cid=15382&#34;&gt;全栈服务网格 - Aeraki Mesh 助你在 Istio 服务网格中管理任何七层流量&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wondrous-llama-f95062.netlify.app/slides/full-stack-service-mesh-a2m-20220422.pdf&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2022&lt;/td&gt;&#xA;          &lt;td&gt;线上&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://cloud.tencent.com/developer/salon/live-1403&#34;&gt;云原生正发声&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/zp9q99mGyH2VD9Dij2owWg&#34;&gt;Areaki Mesh 在 2022 冬奥会视频直播应用中的服务网格实践&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/img/2022-03-30-aeraki-mesh-winter-olympics-practice/slides.pdf&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/uXxatQTKzW8&#34;&gt;观看&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2021&lt;/td&gt;&#xA;          &lt;td&gt;线上&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://events.istio.io/istiocon-2021/&#34;&gt;IstioCon&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://events.istio.io/istiocon-2021/sessions/how-to-manage-any-layer-7-traffic-in-an-istio-service-mesh/&#34;&gt;How to manage any layer-7 traffic in an Istio service mesh?&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wondrous-llama-f95062.netlify.app/slides/how-to-manage-any-layer-7-traffic-in-istio.pdf&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sBS4utF68d8&#34;&gt;观看&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2020&lt;/td&gt;&#xA;          &lt;td&gt;线上&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.cnbpa.org/&#34;&gt;CNBPS&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://cloud.tencent.com/developer/article/1723804&#34;&gt;Istio 流量管理原理与协议扩展&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wondrous-llama-f95062.netlify.app/slides/cnbps2020-istio-aeraki.pdf&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lB5d4qbZqzU&#34;&gt;观看&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2019&lt;/td&gt;&#xA;          &lt;td&gt;成都&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/&#34;&gt;Service Mesher Meetup&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/&#34;&gt;Service Mesh是下一代SDN吗？&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wondrous-llama-f95062.netlify.app/slides/what-can-service-mesh-learn-from-sdn-servicemesher-meetup-20191026.pdf&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/nGkxp-2OsKg&#34;&gt;观看&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2019&lt;/td&gt;&#xA;          &lt;td&gt;西安&lt;/td&gt;&#xA;          &lt;td&gt;ONAP Workshop&lt;/td&gt;&#xA;          &lt;td&gt;基于 5G 网络管理系统的服务网格实践&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wondrous-llama-f95062.netlify.app/slides/service-mesh-practice-with-5g-management-system-lfn.pdf&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2018&lt;/td&gt;&#xA;          &lt;td&gt;南京&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.bagevent.com/event/1624048?aId=&#34;&gt;GNTC&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.sdnlab.com/22596.html&#34;&gt;ONAP 服务网格实践&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2017&lt;/td&gt;&#xA;          &lt;td&gt;圣克拉拉&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wiki.onap.org/display/DW/ONAP+Beijing+Release+Developer+Forum%2C+Dec.+11-13%2C+2017%2C+Santa+Clara%2C+CA+US&#34;&gt;NAP Developer Forum&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://onapbeijing2017.sched.com/event/D5q2&#34;&gt;MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wiki.onap.org/display/DW/MSB+Service+Mesh+Planning?preview=%2F20873876%2F20873874%2FMSB+to+Support+Carrier+Grade+ONAP+Microservice+Architecture+with+Service+Mesh.pdf&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2017&lt;/td&gt;&#xA;          &lt;td&gt;圣克拉拉&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wiki.onap.org/display/DW/ONAP@ONS2017&#34;&gt;ONS&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Microservice Powered Orchestration&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wiki.onap.org/display/DW/ONAP@ONS2017?preview=%2F3245268%2F3245309%2FMicroservice+Powered+Orchestration+Architecture.pdf&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2017&lt;/td&gt;&#xA;          &lt;td&gt;新泽西&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wiki.onap.org/display/DW/ONAP+Project+Developer+Event%3A+May+2+-+5%2C+2017%2C+Middletown%2C+NJ%2C+USA&#34;&gt;ONAP Developer Event&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;MSB Technical Deep Dive and ONAP Use Cases&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.slideshare.net/HuabingZhao/msb-depp-dive/&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2017&lt;/td&gt;&#xA;          &lt;td&gt;巴黎&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wiki.onap.org/display/DW/ONAP+Developer+Event+September+25-28%2C+2017%2C+Paris-Saclay%2C+France&#34;&gt;ONAP Developer Event&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://wiki.onap.org/display/DW/September+26-28+Topics#September2628Topics-M2&#34;&gt;Microservice Bus Tutorial&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial&#34;&gt;下载&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;开源项目&#34;&gt;开源项目&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;项目&lt;/th&gt;&#xA;          &lt;th&gt;角色&lt;/th&gt;&#xA;          &lt;th&gt;网站&lt;/th&gt;&#xA;          &lt;th&gt;GitHub&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Aeraki Mesh&lt;/td&gt;&#xA;          &lt;td&gt;创建者&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://aeraki.net&#34;&gt;https://aeraki.net&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://github.com/aeraki-mesh&#34;&gt;http://github.com/aeraki-mesh&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Istio&lt;/td&gt;&#xA;          &lt;td&gt;Contributor&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://istio.io&#34;&gt;https://istio.io&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/istio/istio&#34;&gt;https://github.com/istio/istio&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Envoy&lt;/td&gt;&#xA;          &lt;td&gt;Contributor&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.envoyproxy.io&#34;&gt;https://www.envoyproxy.io&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/envoyproxy/envoy&#34;&gt;https://github.com/envoyproxy/envoy&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;ONAP&lt;/td&gt;&#xA;          &lt;td&gt;项目 Leader&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.onap.org&#34;&gt;https://www.onap.org&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;hugo-theme-cleanwhite&lt;/td&gt;&#xA;          &lt;td&gt;创建者&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-cleanwhite&#34;&gt;https://themes.gohugo.io/themes/hugo-theme-cleanwhite&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/zhaohuabing/hugo-theme-cleanwhite&#34;&gt;https://github.com/zhaohuabing/hugo-theme-cleanwhite&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://wondrous-llama-f95062.netlify.app/notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/notes/</guid>
-      <description>&lt;h2 id=&#34;go-语言学习笔记&#34;&gt;&lt;a href=&#34;https://zhaohuabing.com/learning-golang&#34;&gt;Go 语言学习笔记&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;envoy-学习笔记&#34;&gt;&lt;a href=&#34;https://zhaohuabing.com/learning-envoy&#34;&gt;Envoy 学习笔记&lt;/a&gt;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://wondrous-llama-f95062.netlify.app/search/placeholder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/search/placeholder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://wondrous-llama-f95062.netlify.app/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/contact/</guid>
-      <description>&lt;p&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xA;&lt;form name=&#34;contact&#34; action=&#34;https://getform.io/&#34; method=&#34;POST&#34;&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Email&#34; name=&#34;mail&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Title&#34; name=&#34;title&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;textarea rows=&#34;5&#34; cols=&#34;30&#34; placeholder=&#34;Message&#34; name=&#34;message&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&lt;/textarea&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34; class=&#34;px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400&#34;&gt;&#xA;&lt;/form&gt;</description>
-    </item>
-    <item>
-      <title>Posts Archive</title>
-      <link>https://wondrous-llama-f95062.netlify.app/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wondrous-llama-f95062.netlify.app/archive/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tella</title><link>https://wondrous-llama-f95062.netlify.app/</link><description>Recent content on Tella</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 01 May 2025 13:28:09 +0200</lastBuildDate><atom:link href="https://wondrous-llama-f95062.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Example Project</title><link>https://wondrous-llama-f95062.netlify.app/products/example/</link><pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/products/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p></description></item><item><title>My First Post</title><link>https://wondrous-llama-f95062.netlify.app/posts/my-first-post/</link><pubDate>Thu, 01 May 2025 13:28:09 +0200</pubDate><guid>https://wondrous-llama-f95062.netlify.app/posts/my-first-post/</guid><description>&lt;p>This is my first post sadfjsdakjlfdsaf and again a new file&lt;/p></description></item><item><title>Markdown Syntax Guide</title><link>https://wondrous-llama-f95062.netlify.app/blog/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item><item><title>Rich Content</title><link>https://wondrous-llama-f95062.netlify.app/blog/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/rich-content/</guid><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p></description></item><item><title>Placeholder Text</title><link>https://wondrous-llama-f95062.netlify.app/blog/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/placeholder-text/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p></description></item><item><title>Math Typesetting</title><link>https://wondrous-llama-f95062.netlify.app/blog/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p></description></item><item><title>Emoji Support</title><link>https://wondrous-llama-f95062.netlify.app/blog/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/emoji-support/</guid><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p></description></item><item><title>Fancy App 1</title><link>https://wondrous-llama-f95062.netlify.app/itemized/item1/</link><pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/itemized/item1/</guid><description>&lt;h2 id="app-1">App 1&lt;/h2></description></item><item><title>Fancy App 2</title><link>https://wondrous-llama-f95062.netlify.app/itemized/item2/</link><pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/itemized/item2/</guid><description>&lt;h2 id="app-2">App 2&lt;/h2></description></item><item><title>Fancy App 3</title><link>https://wondrous-llama-f95062.netlify.app/itemized/item3/</link><pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/itemized/item3/</guid><description>&lt;h2 id="app-3">App 3&lt;/h2></description></item><item><title>Fancy App 4</title><link>https://wondrous-llama-f95062.netlify.app/itemized/item4/</link><pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/itemized/item4/</guid><description>&lt;h2 id="app-4">App 4&lt;/h2></description></item><item><title>Creating a New Theme</title><link>https://wondrous-llama-f95062.netlify.app/blog/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p>
+&lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>https://wondrous-llama-f95062.netlify.app/blog/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="http://golang.org/">go&lt;/a> &lt;a href="http://golang.org/pkg/html/template/">html/template&lt;/a> library for
+its template engine. It is an extremely lightweight engine that provides a very
+small amount of logic. In our experience that it is just the right amount of
+logic to be able to create a good static website. If you have used other
+template systems from different languages or frameworks you will find a lot of
+similarities in go templates.&lt;/p>
+&lt;p>This document is a brief primer on using go templates. The &lt;a href="http://golang.org/pkg/html/template/">go docs&lt;/a>
+provide more details.&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>https://wondrous-llama-f95062.netlify.app/blog/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">Step 1. Install Hugo&lt;/h2>
+&lt;p>Go to &lt;a href="https://github.com/spf13/hugo/releases">hugo releases&lt;/a> and download the
+appropriate version for your os and architecture.&lt;/p>
+&lt;p>Save it somewhere specific as we will be using it in the next step.&lt;/p>
+&lt;p>More complete instructions are available at &lt;a href="https://wondrous-llama-f95062.netlify.app/overview/installing/">installing hugo&lt;/a>&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>https://wondrous-llama-f95062.netlify.app/blog/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">Move static content to &lt;code>static&lt;/code>&lt;/h2>
+&lt;p>Jekyll has a rule that any directory not starting with &lt;code>_&lt;/code> will be copied as-is to the &lt;code>_site&lt;/code> output. Hugo keeps all static content under &lt;code>static&lt;/code>. You should therefore move it all there.
+With Jekyll, something that looked like&lt;/p>
+&lt;pre>&lt;code>▾ &amp;lt;root&amp;gt;/
+ ▾ images/
+ logo.png
+&lt;/code>&lt;/pre></description></item><item><title/><link>https://wondrous-llama-f95062.netlify.app/about/index-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/about/index-zh/</guid><description>&lt;h2 id="关于我">关于我&lt;/h2>
+&lt;p>Hi，我是赵化冰，服务网格技术布道者及实践者，&lt;a href="https://cloud.tencent.com/product/tcm">腾讯云&lt;/a>工程师，曾担任&lt;a href="https://www.zte.com.cn/">中兴通讯&lt;/a>技术专家，Linux 基金会开源项目 &lt;a href="https://www.onap.org/">ONAP&lt;/a> 项目 leader，甲骨文中间件高级顾问等。我创建了服务网格开源项目 &lt;a href="https://aeraki.net">Aeraki Mesh&lt;/a>（CNCF Sandbox 项目），可以在 Istio 中管理 Dubbo、Thrift、Redis 以及任意私有协议的流量。&lt;/p>
+&lt;p>工作联系： &lt;a href="mailto:zhaohuabing@gmail.com">zhaohuabing@gmail.com&lt;/a>&lt;/p>
+&lt;h2 id="出版物">出版物&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>标题&lt;/th>
+ &lt;th>类型&lt;/th>
+ &lt;th>出版社&lt;/th>
+ &lt;th>链接&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.zhaohuabing.com/post/2021-08-26-istio-handbook/">深入理解 Istio — 云原生服务网格进阶实战&lt;/a>&lt;/td>
+ &lt;td>实体书籍&lt;/td>
+ &lt;td>电子工业出版社&lt;/td>
+ &lt;td>&lt;a href="https://item.jd.com/13200745.html">购买链接&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.zhaohuabing.com/post/2021-09-08-distributed-tracing-with-jaeger-kubernetes-and-istio/">Distributed Tracing with Jaeger, Kubernetes, and Istio&lt;/a>&lt;/td>
+ &lt;td>在线教程&lt;/td>
+ &lt;td>&lt;a href="https://www.manning.com/">曼宁出版社（美）&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.manning.com/liveprojectseries/distributed-tracing-ser">30% 折扣&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://zhaohuabing.com/post/2021-08-27-cloud-native-data-center">云原生数据中心网络&lt;/a>&lt;/td>
+ &lt;td>翻译书籍&lt;/td>
+ &lt;td>中国电力出版社&lt;/td>
+ &lt;td>&lt;a href="https://item.jd.com/12929975.html">购买链接&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://istio-operation-bible.aeraki.net">Istio 运维实战&lt;/a>&lt;/td>
+ &lt;td>电子书籍&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://istio-operation-bible.aeraki.net">在线阅读&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="演讲分享-部分">演讲分享 (部分)&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>年份&lt;/th>
+ &lt;th>城市&lt;/th>
+ &lt;th>会议&lt;/th>
+ &lt;th>分享主题&lt;/th>
+ &lt;th>讲稿&lt;/th>
+ &lt;th>视频&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>2022&lt;/td>
+ &lt;td>线上&lt;/td>
+ &lt;td>&lt;a href="https://events.istio.io/istiocon-2022">IstioCon&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://events.istio.io/istiocon-2022/sessions/tencent-music-aeraki/">Istio + Aeraki 在腾讯音乐的服务网格落地&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/tencent-music-service-mesh-practice-with-istio-and-aeraki.pdf">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.youtube.com/watch?v=6t_yPsq4Pi4">观看&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2022&lt;/td>
+ &lt;td>线上&lt;/td>
+ &lt;td>&lt;a href="https://a2m.msup.com.cn/course?aid=2699&amp;amp;cid=15382">A2M&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://a2m.msup.com.cn/course?aid=2699&amp;amp;cid=15382">全栈服务网格 - Aeraki Mesh 助你在 Istio 服务网格中管理任何七层流量&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/full-stack-service-mesh-a2m-20220422.pdf">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2022&lt;/td>
+ &lt;td>线上&lt;/td>
+ &lt;td>&lt;a href="https://cloud.tencent.com/developer/salon/live-1403">云原生正发声&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://mp.weixin.qq.com/s/zp9q99mGyH2VD9Dij2owWg">Areaki Mesh 在 2022 冬奥会视频直播应用中的服务网格实践&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://localhost:1313/img/2022-03-30-aeraki-mesh-winter-olympics-practice/slides.pdf">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://youtu.be/uXxatQTKzW8">观看&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2021&lt;/td>
+ &lt;td>线上&lt;/td>
+ &lt;td>&lt;a href="https://events.istio.io/istiocon-2021/">IstioCon&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://events.istio.io/istiocon-2021/sessions/how-to-manage-any-layer-7-traffic-in-an-istio-service-mesh/">How to manage any layer-7 traffic in an Istio service mesh?&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/how-to-manage-any-layer-7-traffic-in-istio.pdf">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.youtube.com/watch?v=sBS4utF68d8">观看&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2020&lt;/td>
+ &lt;td>线上&lt;/td>
+ &lt;td>&lt;a href="https://www.cnbpa.org/">CNBPS&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://cloud.tencent.com/developer/article/1723804">Istio 流量管理原理与协议扩展&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/cnbps2020-istio-aeraki.pdf">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.youtube.com/watch?v=lB5d4qbZqzU">观看&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2019&lt;/td>
+ &lt;td>成都&lt;/td>
+ &lt;td>&lt;a href="https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/">Service Mesher Meetup&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/">Service Mesh是下一代SDN吗？&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/what-can-service-mesh-learn-from-sdn-servicemesher-meetup-20191026.pdf">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://youtu.be/nGkxp-2OsKg">观看&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2019&lt;/td>
+ &lt;td>西安&lt;/td>
+ &lt;td>ONAP Workshop&lt;/td>
+ &lt;td>基于 5G 网络管理系统的服务网格实践&lt;/td>
+ &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/service-mesh-practice-with-5g-management-system-lfn.pdf">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2018&lt;/td>
+ &lt;td>南京&lt;/td>
+ &lt;td>&lt;a href="https://www.bagevent.com/event/1624048?aId=">GNTC&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.sdnlab.com/22596.html">ONAP 服务网格实践&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2017&lt;/td>
+ &lt;td>圣克拉拉&lt;/td>
+ &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP+Beijing+Release+Developer+Forum%2C+Dec.+11-13%2C+2017%2C+Santa+Clara%2C+CA+US">NAP Developer Forum&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://onapbeijing2017.sched.com/event/D5q2">MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://wiki.onap.org/display/DW/MSB+Service+Mesh+Planning?preview=%2F20873876%2F20873874%2FMSB+to+Support+Carrier+Grade+ONAP+Microservice+Architecture+with+Service+Mesh.pdf">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2017&lt;/td>
+ &lt;td>圣克拉拉&lt;/td>
+ &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP@ONS2017">ONS&lt;/a>&lt;/td>
+ &lt;td>Microservice Powered Orchestration&lt;/td>
+ &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP@ONS2017?preview=%2F3245268%2F3245309%2FMicroservice+Powered+Orchestration+Architecture.pdf">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2017&lt;/td>
+ &lt;td>新泽西&lt;/td>
+ &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP+Project+Developer+Event%3A+May+2+-+5%2C+2017%2C+Middletown%2C+NJ%2C+USA">ONAP Developer Event&lt;/a>&lt;/td>
+ &lt;td>MSB Technical Deep Dive and ONAP Use Cases&lt;/td>
+ &lt;td>&lt;a href="https://www.slideshare.net/HuabingZhao/msb-depp-dive/">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2017&lt;/td>
+ &lt;td>巴黎&lt;/td>
+ &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP+Developer+Event+September+25-28%2C+2017%2C+Paris-Saclay%2C+France">ONAP Developer Event&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://wiki.onap.org/display/DW/September+26-28+Topics#September2628Topics-M2">Microservice Bus Tutorial&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial">下载&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="开源项目">开源项目&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>项目&lt;/th>
+ &lt;th>角色&lt;/th>
+ &lt;th>网站&lt;/th>
+ &lt;th>GitHub&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Aeraki Mesh&lt;/td>
+ &lt;td>创建者&lt;/td>
+ &lt;td>&lt;a href="https://aeraki.net">https://aeraki.net&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://github.com/aeraki-mesh">http://github.com/aeraki-mesh&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Istio&lt;/td>
+ &lt;td>Contributor&lt;/td>
+ &lt;td>&lt;a href="https://istio.io">https://istio.io&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/istio/istio">https://github.com/istio/istio&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Envoy&lt;/td>
+ &lt;td>Contributor&lt;/td>
+ &lt;td>&lt;a href="https://www.envoyproxy.io">https://www.envoyproxy.io&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/envoyproxy/envoy">https://github.com/envoyproxy/envoy&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ONAP&lt;/td>
+ &lt;td>项目 Leader&lt;/td>
+ &lt;td>&lt;a href="https://www.onap.org">https://www.onap.org&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>hugo-theme-cleanwhite&lt;/td>
+ &lt;td>创建者&lt;/td>
+ &lt;td>&lt;a href="https://themes.gohugo.io/themes/hugo-theme-cleanwhite">https://themes.gohugo.io/themes/hugo-theme-cleanwhite&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/zhaohuabing/hugo-theme-cleanwhite">https://github.com/zhaohuabing/hugo-theme-cleanwhite&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title/><link>https://wondrous-llama-f95062.netlify.app/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/notes/</guid><description>&lt;h2 id="go-语言学习笔记">&lt;a href="https://zhaohuabing.com/learning-golang">Go 语言学习笔记&lt;/a>&lt;/h2>
+&lt;h2 id="envoy-学习笔记">&lt;a href="https://zhaohuabing.com/learning-envoy">Envoy 学习笔记&lt;/a>&lt;/h2></description></item><item><title/><link>https://wondrous-llama-f95062.netlify.app/search/placeholder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/search/placeholder/</guid><description/></item><item><title>Contact</title><link>https://wondrous-llama-f95062.netlify.app/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/contact/</guid><description>&lt;p>To contact us, please fill out the form below.&lt;/p>
+&lt;form name="contact" action="https://getform.io/" method="POST">
+ &lt;div class="input">
+ &lt;input type="text" placeholder="Name" name="name" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
+ &lt;/div>
+ &lt;div class="input">
+ &lt;input type="text" placeholder="Email" name="mail" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
+ &lt;/div>
+ &lt;div class="input">
+ &lt;input type="text" placeholder="Title" name="title" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
+ &lt;/div>
+ &lt;div class="input">
+ &lt;textarea rows="5" cols="30" placeholder="Message" name="message" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>&lt;/textarea>
+ &lt;/div>
+ &lt;input type="submit" value="Submit" class="px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400">
+&lt;/form></description></item><item><title>Posts Archive</title><link>https://wondrous-llama-f95062.netlify.app/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/archive/</guid><description/></item></channel></rss>
