@@ -7,6 +7,9 @@
 [submodule "themes/hugo-universal-theme"]
 	path = themes/hugo-universal-theme
 	url = https://github.com/devcows/hugo-universal-theme
-[submodule "themes/hugo-theme-cleanwhite"]
-	path = themes/hugo-theme-cleanwhite
-	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite
+[submodule "hinode"]
+	path = hinode
+	url = https://github.com/gethinode/hinode
+[submodule "themes/tella"]
+	path = themes/tella
+	url = https://github.com/opera7133/tella.git

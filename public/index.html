@@ -1,738 +1,307 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en">
+
 <head>
 	<meta name="generator" content="Hugo 0.147.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<title>Tella</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href='/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='/favicon-16x16.png'>
+<link rel="manifest" href='/site.webmanifest'>
 
-    
-    <meta property="og:site_name" content="Huabing Blog">
-    <meta property="og:type" content="article">
+<link href='/css/fa6.min.css' rel="stylesheet" type="text/css">
 
-    
-    <meta property="og:image" content="http://localhost:1313//img/home-bg-jeep.jpg">
-    <meta property="twitter:image" content="http://localhost:1313//img/home-bg-jeep.jpg" />
-    
 
-    
-    <meta name="title" content="Home" />
-    <meta property="og:title" content="Home" />
-    <meta property="twitter:title" content="Home" />
-    
 
-    
-    <meta name="description" content="赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。">
-    <meta property="og:description" content="赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。" />
-    <meta property="twitter:description" content="赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。" />
-    
+<link rel="stylesheet" href="/css/style.css">
 
-    
-    <meta property="twitter:card" content="summary" />
-    
-    
 
-    <meta name="keyword"  content="赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice">
-    <link rel="shortcut icon" href="/img/favicon.ico">
+<link rel="stylesheet" href='/css/swiper-bundle.min.css'>
 
-    <title>Home | 赵化冰的博客 | Zhaohuabing Blog</title>
-
-    <link rel="canonical" href="/">
-
-    
-    
-    
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-
-    
-    <link rel="stylesheet" href="/css/hugo-theme-cleanwhite.min.css">
-
-    
-    <link rel="stylesheet" href="/css/zanshang.css">
-
-    
-    <link rel="stylesheet" href="/css/font-awesome.all.min.css">
-
-    
-    
-
-    
-    <script src="/js/jquery.min.js"></script>
-
-    
-    <script src="/js/bootstrap.min.js"></script>
-
-    
-    <script src="/js/hux-blog.min.js"></script>
-
-    
-    <script src="/js/lazysizes.min.js"></script>
-
-    
-    
-
+<link href='/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/css/custom.css'>
+<meta name="description" content="A Hugo Theme for OSSProject, Companies, Organization..." />
+    <meta property="og:title" content="Tella" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://tella.pages.dev" />
+    <meta property="og:image" content="https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png" />
+    <meta property="og:description" content="A Hugo Theme for OSSProject, Companies, Organization..." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@username" />
+    <meta name="twitter:creator" content="@username" />
 </head>
 
-
-
-
-
-
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-
-    <div class="container-fluid">
-        
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/">Huabing Blog</a>
-        </div>
-
-        
-        
-        <div id="huxblog_navbar">
-            <div class="navbar-collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="/">All Posts</a>
-                    </li>
-                    
-                        
-                        <li>
-                            <a href="/categories/life/">life</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/tech/">tech</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/tips/">tips</a>
-                        </li>
-                        
-                    
-                    
-		    
-                        <li><a href="/archive//">ARCHIVE</a></li>
-                    
-                        <li><a href="/notes//">NOTES</a></li>
-                    
-                        <li><a href="/about//">ABOUT</a></li>
-                    
-		            <li>
-                        <a href="/search"><i class="fa fa-search"></i></a>
-		           </li>
-                </ul>
-            </div>
-        </div>
-        
-    </div>
-    
-</nav>
-<script>
-    
-    
-    
-    var $body   = document.body;
-    var $toggle = document.querySelector('.navbar-toggle');
-    var $navbar = document.querySelector('#huxblog_navbar');
-    var $collapse = document.querySelector('.navbar-collapse');
-
-    $toggle.addEventListener('click', handleMagic)
-    function handleMagic(e){
-        if ($navbar.className.indexOf('in') > 0) {
-        
-            $navbar.className = " ";
+<body><header>
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
             
-            setTimeout(function(){
-                
-                if($navbar.className.indexOf('in') < 0) {
-                    $collapse.style.height = "0px"
-                }
-            },400)
-        }else{
-        
-            $collapse.style.height = "auto"
-            $navbar.className += " in";
-        }
-    }
-</script>
-
-
-
-<header class="intro-header" style="background-image: url('/img/home-bg-jeep.jpg')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
-                <div class="site-heading">
-                    <h1>Huabing Blog </h1>
-                    
-		    <span class="subheading">路在脚下，心向远方</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
-
-
-
-  
-<div data-pagefind-ignore="all" class="container">
-    <div class="row">
-        
-        
-   	    <div class="
-            col-lg-8 col-lg-offset-1
-            col-md-8 col-md-offset-1
-            col-sm-12
-            col-xs-12
-            post-container
-        ">
+            <li class="p-2">
+                <a href="/products/">
+                    <span>Productsss</span>
+                </a>
+            </li>
             
-<div data-pagefind-ignore="all">
-
-<div class="post-preview">
-    <a href="http://localhost:1313/post/readme/">
-        <h2 class="post-title">
-            Clean White Theme for Hugo
-        </h2>
-	
-        <h3 class="post-subtitle">
-            How to set up this theme
-        </h3>
-	
-        <div class="post-content-preview">
-	
-            <h1 id="clean-white-theme-for-hugo">Clean White Theme for Hugo</h1>
-<p>CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live <a href="https://zhaohuabing.com">demo site</a> using this theme.</p>
-<p>It is based on <a href="https://github.com/Huxpro/huxpro.github.io">huxblog Jekyll Theme</a>
-and <a href="https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll">Clean Blog Jekyll Theme</a>.</p>
-<p>These two upstream projects have done awesome jobs to create a blog theme, what I&rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster compiling speed. Some other features which I think could be useful, such as site search with algolia and proxy for Disqus access in China, have also been built in the CleanWhite theme. Other fancy features of upstream projects are not supported by this Hugo theme, I&rsquo;d like to make it as simple as possible and only focus on blog purpose, at least for now.
-While I created this theme, I followed the Hugo theme best practice and tried to make every part of the template as a replaceable partial html, so it could be much easier for you to make your customization based on it.</p>
-       
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by 赵化冰 on Wednesday, January 9, 2019
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://localhost:1313/2018/06/04/introducing-the-istio-v1alpha3-routing-api/">
-        <h2 class="post-title">
-            Istio v1aplha3 routing API介绍(译文）
-        </h2>
-	
-        <div class="post-content-preview">
-	
-            介绍Istio v1alpha3 routing API及其设计原则
-        
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by     &#34;赵化冰&#34; on Monday, June 4, 2018
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://localhost:1313/2018/06/02/istio08/">
-        <h2 class="post-title">
-            Istio 0.8 Release发布
-        </h2>
-	
-        <h3 class="post-subtitle">
-            来自Istio的儿童节礼物
-        </h3>
-	
-        <div class="post-content-preview">
-	
-            在6月1日这一天的早上，Istio社区宣布发布0.8 Release，除了常规的故障修复和性能改进外，这个儿童节礼物里面还有什么值得期待内容呢？让我们来看一看：
-        
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by     &#34;赵化冰&#34; on Saturday, June 2, 2018
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://localhost:1313/2018/05/24/set_up_my_ubuntu_desktop/">
-        <h2 class="post-title">
-            Everything about Setting Up My Ubuntu Desktop
-        </h2>
-	
-        <div class="post-content-preview">
-	
-            Everything about setting up my own ubuntu desktop, it&#39;s just a Note in case I need it later
-        
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by     &#34;赵化冰&#34; on Thursday, May 24, 2018
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://localhost:1313/2018/05/23/external_system_auth/">
-        <h2 class="post-title">
-            微服务安全沉思录之三
-        </h2>
-	
-        <h3 class="post-subtitle">
-            外部系统访问控制
-        </h3>
-	
-        <div class="post-content-preview">
-	
-            一些外部的第三方系统可能需要访问系统内部的微服务。例如在网上商店的例子中，外部的推荐服务可能需要接入系统，以获取商店的商品目录信息。相对于内部服务之间的访问而言，外部系统的访问需要进行严格的安全控制。
-        
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by     &#34;赵化冰&#34; on Wednesday, May 23, 2018
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-</div>
-
+            <li class="p-2">
+                <a href="/blog/">
+                    <span>Blogss</span>
+                </a>
+            </li>
             
-
-
-<ul class="pager" data-pagefind-ignore="all">
-    
-    
-    <li class="next">
-        <a href="/page/2/">Older Posts &rarr;</a>
-    </li>
-    
-</ul>
-
-
-       	</div>
-        
-
-<div class="
-    col-lg-3 col-lg-offset-0
-    col-md-3 col-md-offset-0
-    col-sm-12
-    col-xs-12
-    sidebar-container
-">
-    
-	
-    <section class="visible-md visible-lg">
-	
-        <div class="short-about">
+            <li class="p-2">
+                <a href="/about/">
+                    <span>Aboutss</span>
+                </a>
+            </li>
             
-            <a href="/about">
-               <img src="/img/zhaohuabing.png" alt="avatar" style="cursor: pointer" />
-            </a>
-            
-            
-                <p>Software Developer, Open Source Enthusiast and Life Adventurer</p>
-            
-           
-           <ul class="list-inline">
-               
-               <li>
-                   <a href="mailto:youremail@gmail.com">
-                      <span class="fa-stack fa-lg">
-                          <i class="fa fa-circle fa-stack-2x"></i>
-                          <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-                      </span>
-                   </a>
-               </li>
-               
-               
-               
-               
-               
-               
-               <li>
-                   <a target="_blank" href="/your%20wechat%20qr%20code%20image">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-weixin fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               
-               
-               <li>
-                   <a target="_blank" href="https://github.com/yourgithub">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               
-               
-               
-               
-               <li>
-                   <a target="_blank" href="https://www.linkedin.com/in/yourlinkedinid">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               
-               
-               
-                    <li>
-                        <a target="_blank" href="https://stackoverflow.com/users/yourstackoverflowid">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-stack-overflow fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-            
-            
-            
-               
-               
-               
-               
-                </ul>
-            </div>
-    </section>
-	
-    
-    
-    
-    
-    <section>
-        <hr class="hidden-sm hidden-xs">
-        <h5>FEATURED TAGS</h5>
-        <div class="tags">
-            
-            
-               
-            
-               
-            
-               
-                    <a href="/tags/docker" title="docker">
-                        docker
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/istio" title="istio">
-                        istio
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/kubernetes" title="kubernetes">
-                        kubernetes
-                    </a>
-               
-            
-               
-                    <a href="/tags/microservice" title="microservice">
-                        microservice
-                    </a>
-               
-            
-               
-            
-               
-                    <a href="/tags/security" title="security">
-                        security
-                    </a>
-               
-            
-               
-                    <a href="/tags/service-mesh" title="service mesh">
-                        service mesh
-                    </a>
-               
-            
-               
-                    <a href="/tags/tips" title="tips">
-                        tips
-                    </a>
-               
-            
-               
-            
-               
-            
-               
-            
-        </div>
-    </section>
-    
-
-    
-    
-    <section>
-        <hr class="hidden-sm hidden-xs">
-        <h5>FRIENDS</h5>
-        <ul class="list-inline">
-            
-            <li><a target="_blank" href="https://zhaozhihan.com">Linda的博客</a></li>
+            <li class="p-2">
+                <a href="/contact/">
+                    <span>Contactss</span>
+                </a>
+            </li>
             
         </ul>
-    </section>
-    
-    
-</div>
-
-	</div>
-</div>
-
-
-
-
-
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <ul class="list-inline text-center">
-                    
-                    <li>
-                        <a href="mailto:youremail@gmail.com">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-		           
-                    
-                    
-                    
-                    
-
-		            
-                    
-                    <li>
-                        <a target="_blank" href="/your%20wechat%20qr%20code%20image">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-weixin fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-		            
-                    
-                    <li>
-                        <a target="_blank" href="https://github.com/yourgithub">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-		            
-                    
-                    
-                    
-                    <li>
-                        <a target="_blank" href="https://www.linkedin.com/in/yourlinkedinid">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-		           
-                    
-                    
-                    <li>
-                        <a target="_blank" href="https://stackoverflow.com/users/yourstackoverflowid">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-stack-overflow fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    
-                    
-                    
-                    
-                    
-            
-            
-            
-           
-                   <li>
-                       <a href='/index.xml' rel="alternate" type="application/rss+xml" title="Huabing Blog" >
-                           <span class="fa-stack fa-lg">
-                               <i class="fas fa-circle fa-stack-2x"></i>
-                               <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-                           </span>
-                       </a>
-                   </li>
-            
-             </ul>
-		<p class="copyright text-muted">
-                    Copyright &copy; Huabing Blog 2025
-                    
-                    <br>
-                    <a href="https://themes.gohugo.io/hugo-theme-cleanwhite">CleanWhite Hugo Theme</a> by <a href="https://zhaohuabing.com">Huabing</a> |
-                    <iframe
-                        style="margin-left: 2px; margin-bottom:-5px;"
-                        frameborder="0" scrolling="0" width="100px" height="20px"
-                        src="https://ghbtns.com/github-btn.html?user=zhaohuabing&repo=hugo-theme-cleanwhite&type=star&count=true" >
-                    </iframe>
-                    
-                </p>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+            <a href="http://localhost:1313/"><img alt="Tella Logo"
+                    class="h-14 mr-3" src="/img/logo/logo.svg"></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
             </div>
         </div>
-    </div>
-</footer>
-
-
-
-
-<script>
-    function loadAsync(u, c) {
-      var d = document, t = 'script',
-          o = d.createElement(t),
-          s = d.getElementsByTagName(t)[0];
-      o.src = u;
-      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
-      s.parentNode.insertBefore(o, s);
-    }
-</script>
-
-
-
-
-
-
-<script>
-    
-    if($('#tag_cloud').length !== 0){
-        loadAsync("/js/jquery.tagcloud.js",function(){
-            $.fn.tagcloud.defaults = {
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg"> 
                 
-                color: {start: '#bbbbee', end: '#0085a1'},
-            };
-            $('#tag_cloud a').tagcloud();
-        })
+                <a href="/products/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Products
+                </a>
+                
+                <a href="/blog/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Blog
+                </a>
+                
+                <a href="/about/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    About
+                </a>
+                
+                <a href="/contact/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Contact
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header><div class="scroll-top rounded-full">
+        <span class="icon-keyboard_arrow_up text-2xl"></span>
+    </div><div class="swiper-container">
+    <div class="swiper-wrapper">
+        
+        <div class="swiper-slide">
+            <img src="img/slide/slide01.jpg" alt="">
+            <div class="s-fade-txt">
+                <h1 class="text-4xl text-white">Tella, A Hugo theme for Companies.</h1>
+            </div>
+        </div>
+        
+        <div class="swiper-slide">
+            <img src="img/slide/slide02.jpg" alt="">
+            <div class="s-fade-txt">
+                <h1 class="text-4xl text-black">Sample text here...</h1>
+            </div>
+        </div>
+        
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+</div>
+
+<div class="bg-tlgray-200 py-6 md:py-10">
+    <div class="container mx-auto max-w-7xl">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+            
+            
+                <div
+                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
+                    <div class="p-1">
+                        
+                        <span class="icon-desktop_windows text-5xl"></span>
+                        
+                        <h2 class="text-2xl">Simple</h2>
+                        <p class="sans">All the bare necessities are there.</p>
+                    </div>
+                </div>
+                
+            
+            
+                <div
+                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
+                    <div class="p-1">
+                        
+                        <span class="icon-lightbulb_outline text-5xl"></span>
+                        
+                        <h2 class="text-2xl">Fast</h2>
+                        <p class="sans">Light weight and fast loading speed.</p>
+                    </div>
+                </div>
+                
+            
+            <a href="https://github.com/opera7133/tella">
+                <div
+                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
+                    <div class="p-1">
+                        
+                        <span class="icon-github text-5xl"></span>
+                        
+                        <h2 class="text-2xl">Github</h2>
+                        <p class="sans">Please fork the Github repository and contribute to this theme!</p>
+                    </div>
+                </div>
+                
+            </a>
+            
+        </div>
+    </div>
+</div>
+
+    <div class="mx-auto my-10 max-w-6xl">
+        <h2 class="text-4xl ml-2">Blog</h2>
+<a href="http://localhost:1313/blog/markdown-syntax/"><div
+  class="sans w-full px-2 lg:max-w-full lg:flex mt-3 lg:px-0 duration-500 transform hover:-translate-y-1 hover:shadow-md">
+  
+  <img id="thumb" alt="Markdown Syntax Guide" class="aspect-video object-cover w-auto lg:h-44"
+    src='/img/default.jpg'>
+  
+  <div
+    class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 relative pl-4 p-6 justify-between leading-normal max-w-full w-full">
+    <div class="text-gray-900 font-bold text-xl mb-2">Markdown Syntax Guide</div>
+    <p class="text-gray-700 text-base pb-5">This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML ...</p>
+    <p class="text-sm text-gray-600 items-center">
+      <time>2019/03/11</time>
+    </p>
+  </div>
+</div></a>
+
+<a href="http://localhost:1313/blog/rich-content/"><div
+  class="sans w-full px-2 lg:max-w-full lg:flex mt-3 lg:px-0 duration-500 transform hover:-translate-y-1 hover:shadow-md">
+  
+  <img id="thumb" alt="Rich Content" class="aspect-video object-cover w-auto lg:h-44"
+    src='/img/default.jpg'>
+  
+  <div
+    class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 relative pl-4 p-6 justify-between leading-normal max-w-full w-full">
+    <div class="text-gray-900 font-bold text-xl mb-2">Rich Content</div>
+    <p class="text-gray-700 text-base pb-5">Hugo ships with several Built-in Short...</p>
+    <p class="text-sm text-gray-600 items-center">
+      <time>2019/03/10</time>
+    </p>
+  </div>
+</div></a>
+
+<a href="http://localhost:1313/blog/placeholder-text/"><div
+  class="sans w-full px-2 lg:max-w-full lg:flex mt-3 lg:px-0 duration-500 transform hover:-translate-y-1 hover:shadow-md">
+  
+  <img id="thumb" alt="Placeholder Text" class="aspect-video object-cover w-auto lg:h-44"
+    src='/img/default.jpg'>
+  
+  <div
+    class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 relative pl-4 p-6 justify-between leading-normal max-w-full w-full">
+    <div class="text-gray-900 font-bold text-xl mb-2">Placeholder Text</div>
+    <p class="text-gray-700 text-base pb-5">Lorem est tota propiore conpellat pectoribus de pectora summo.
+...</p>
+    <p class="text-sm text-gray-600 items-center">
+      <time>2019/03/09</time>
+    </p>
+  </div>
+</div></a>
+
+
+<div class="flex flex-wrap justify-center text-gray-300 my-5">
+    <a href="blog/"
+        class="duration-200 px-6 py-3 bg-tlgray-800 hover:opacity-80 hover:text-white relative block focus:outline-none text-md text-center">
+        All Posts >
+    </a>
+</div></div>
+    <footer class="bg-tlgray-100">
+  
+  <script>
+    function toggleNav() {
+      var hamburger = document.getElementById("hamburgerbtn");
+      var overlay = document.getElementById("overlay");
+      var body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
     }
-</script>
+    toggleNav();
 
-
-<script>
-    loadAsync("https://cdn.jsdelivr.net/npm/fastclick@1.0.6/lib/fastclick.min.js", function(){
-        var $nav = document.querySelector("nav");
-        if($nav) FastClick.attach($nav);
-    })
-</script>
-
-
-
-
-
-
-<script type="text/javascript">
-    function generateCatalog(selector) {
-
-        
-        
-        
-        
-            _containerSelector = 'div.post-container'
-        
-
-        
-        var P = $(_containerSelector), a, n, t, l, i, c;
-        a = P.find('h1,h2,h3,h4,h5,h6');
-
-        
-        $(selector).html('')
-
-        
-        a.each(function () {
-            n = $(this).prop('tagName').toLowerCase();
-            i = "#" + $(this).prop('id');
-            t = $(this).text();
-            c = $('<a href="' + i + '" rel="nofollow" title="' + t + '">' + t + '</a>');
-            l = $('<li class="' + n + '_nav"></li>').append(c);
-            $(selector).append(l);
-        });
-        return true;
-    }
-
-    generateCatalog(".catalog-body");
-
-    
-    $(".catalog-toggle").click((function (e) {
-        e.preventDefault();
-        $('.side-catalog').toggleClass("fold")
-    }))
-
-    
-
-
-    loadAsync("\/js\/jquery.nav.js", function () {
-        $('.catalog-body').onePageNav({
-            currentClass: "active",
-            changeHash: !1,
-            easing: "swing",
-            filter: "",
-            scrollSpeed: 700,
-            scrollOffset: 0,
-            scrollThreshold: .2,
-            begin: null,
-            end: null,
-            scrollChange: null,
-            padding: 80
-        });
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
     });
-</script>
-
-
-
-
-
-
+  </script>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet" />
+  
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="items-center text-xl text-grey-900 mr-6">
+      Tella
+    </div>
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:flex-grow">
+      </div>
+      <div class="flex flex-row items-center text-lg">
+        
+        <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Home
+          
+        </a>
+        
+        <a href="https://github.com/opera7133/tella" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          <i class='icon-github text-2xl'></i>
+          
+        </a>
+        
+      </div>
+    </div>
+  </div>
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+    &copy; Tella 2025 All Rights Reserved.
+  </div>
+</footer>
+<script src="/js/swiper-bundle.min.js"></script>
+    <script>
+        var mySwiper = new Swiper(".swiper-container", {
+            direction: "horizontal",
+            loop: true,
+            speed: 550,
+            autoplay: {
+                delay: 6000,
+            },
+            pagination: {
+                el: ".swiper-pagination",
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
+    </script>
 </body>
+
 </html>

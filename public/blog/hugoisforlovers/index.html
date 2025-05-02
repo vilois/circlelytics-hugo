@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<meta charset="utf-8">
+<title>Tella | Getting Started with Hugo</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href='/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='/favicon-16x16.png'>
+<link rel="manifest" href='/site.webmanifest'>
+
+<link href='/css/fa6.min.css' rel="stylesheet" type="text/css">
+
+
+
+<link rel="stylesheet" href="/css/style.css">
+
+
+<link href='/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/css/custom.css'>
+
+
+<meta property="og:site_name" content="Tella" />
+<meta property="og:title" content="Getting Started with Hugo | Tella" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://localhost:1313/blog/hugoisforlovers/" />
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="Getting Started with Hugo">
+
+
+<meta property="og:image" content="https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png">
+
+<meta name="description" content="Step 1. Install Hugo
+Go to hugo releases and download the
+appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo" />
+<meta property="og:description" content="Step 1. Install Hugo
+Go to hugo releases and download the
+appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo" />
+<meta property="twitter:description" content="Step 1. Install Hugo
+Go to hugo releases and download the
+appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo" />
+
+
+</head>
+
+<body class="flex flex-col min-h-screen">
+  <main class="flex-grow"><header>
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
+            
+            <li class="p-2">
+                <a href="/products/">
+                    <span>Productsss</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/blog/">
+                    <span>Blogss</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/about/">
+                    <span>Aboutss</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/contact/">
+                    <span>Contactss</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+            <a href="http://localhost:1313/"><img alt="Tella Logo"
+                    class="h-14 mr-3" src="/img/logo/logo.svg"></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
+            </div>
+        </div>
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg"> 
+                
+                <a href="/products/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Products
+                </a>
+                
+                <a href="/blog/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Blog
+                </a>
+                
+                <a href="/about/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    About
+                </a>
+                
+                <a href="/contact/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Contact
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header><div class="scroll-top rounded-full">
+      <span class="icon-keyboard_arrow_up text-2xl"></span>
+    </div>
+<div class="mx-auto my-10 max-w-6xl">
+  <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+    <h1 class="title text-5xl mb-4">Getting Started with Hugo</h1>
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><h2 id="step-1-install-hugo">Step 1. Install Hugo</h2>
+<p>Go to <a href="https://github.com/spf13/hugo/releases">hugo releases</a> and download the
+appropriate version for your os and architecture.</p>
+<p>Save it somewhere specific as we will be using it in the next step.</p>
+<p>More complete instructions are available at <a href="/overview/installing/">installing hugo</a></p>
+<h2 id="step-2-build-the-docs">Step 2. Build the Docs</h2>
+<p>Hugo has its own example site which happens to also be the documentation site
+you are reading right now.</p>
+<p>Follow the following steps:</p>
+<ol>
+<li>Clone the <a href="http://github.com/spf13/hugo">hugo repository</a></li>
+<li>Go into the repo</li>
+<li>Run hugo in server mode and build the docs</li>
+<li>Open your browser to http://localhost:1313</li>
+</ol>
+<p>Corresponding pseudo commands:</p>
+<pre><code>git clone https://github.com/spf13/hugo
+cd hugo
+/path/to/where/you/installed/hugo server --source=./docs
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Press ctrl+c to stop
+</code></pre>
+<p>Once you&rsquo;ve gotten here, follow along the rest of this page on your local build.</p>
+<h2 id="step-3-change-the-docs-site">Step 3. Change the docs site</h2>
+<p>Stop the Hugo process by hitting ctrl+c.</p>
+<p>Now we are going to run hugo again, but this time with hugo in watch mode.</p>
+<pre><code>/path/to/hugo/from/step/1/hugo server --source=./docs --watch
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Watching for changes in /Users/spf13/Code/hugo/docs/content
+&gt; Press ctrl+c to stop
+</code></pre>
+<p>Open your <a href="http://vim.spf13.com">favorite editor</a> and change one of the source
+content pages. How about changing this very file to <em>fix the typo</em>. How about changing this very file to <em>fix the typo</em>.</p>
+<p>Content files are found in <code>docs/content/</code>. Unless otherwise specified, files
+are located at the same relative location as the url, in our case
+<code>docs/content/overview/quickstart.md</code>.</p>
+<p>Change and save this file.. Notice what happened in your terminal.</p>
+<pre><code>&gt; Change detected, rebuilding site
+
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 26 ms
+</code></pre>
+<p>Refresh the browser and observe that the typo is now fixed.</p>
+<p>Notice how quick that was. Try to refresh the site before it&rsquo;s finished building.. I double dare you.
+Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.</p>
+<h2 id="step-4-have-fun">Step 4. Have fun</h2>
+<p>The best way to learn something is to play with it.</p></div>
+  </div>
+</div>
+
+  </main><footer class="bg-tlgray-100">
+  
+  <script src='/js/clipboard.min.js'></script>
+  <script src='/js/highlight.min.js'></script>
+  <script src='/js/highlightjs-line-numbers.min.js'></script>
+  <script src='/js/sweetalert2.min.js'></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+    new ClipboardJS('.url');
+
+    function OnClickURL() {
+      Swal.fire({
+        icon: 'success',
+        title: 'Copied!',
+        text: 'Copied the URL and title.'
+      })
+    }
+  </script>
+  
+  <script>
+    function toggleNav() {
+      var hamburger = document.getElementById("hamburgerbtn");
+      var overlay = document.getElementById("overlay");
+      var body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
+    }
+    toggleNav();
+
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet" />
+  
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="items-center text-xl text-grey-900 mr-6">
+      Tella
+    </div>
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:flex-grow">
+      </div>
+      <div class="flex flex-row items-center text-lg">
+        
+        <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Home
+          
+        </a>
+        
+        <a href="https://github.com/opera7133/tella" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          <i class='icon-github text-2xl'></i>
+          
+        </a>
+        
+      </div>
+    </div>
+  </div>
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+    &copy; Tella 2025 All Rights Reserved.
+  </div>
+</footer>
+</body>
+
+</html>
