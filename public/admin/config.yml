@@ -24,7 +24,7 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "content/contact/index.md"
+      - file: "content/contact/_index.md"
         label: "Contact"
         name: "contact"
         fields:
