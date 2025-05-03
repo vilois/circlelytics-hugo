@@ -1,8 +1,8 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "https://wondrous-llama-f95062.netlify.app/"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 languageCode = "en-us"
-title = "Lightbi"
+title = "Circlelytics"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -97,8 +97,8 @@ showPostImage = false
     weight = 4
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Contact"
+    url = "/contact/"
     weight = 5
 
 

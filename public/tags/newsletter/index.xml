@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Newsletter on Lightbi</title>
+    <title>Newsletter on Circlelytics</title>
     <link>http://localhost:1313/tags/newsletter/</link>
-    <description>Recent content in Newsletter on Lightbi</description>
+    <description>Recent content in Newsletter on Circlelytics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>

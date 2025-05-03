@@ -6,7 +6,7 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: "posts"
+  - name: "posts_2020"
     label: "Posts / 2020"
     folder: "content/post/2020"
     create: true
@@ -21,3 +21,12 @@ collections:
       - { label: "Image", name: "image", widget: "image", required: false }
       - { label: "Featured", name: "featured", widget: "boolean", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "contact"
+    label: "Contact"
+    folder: "contact"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
