@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
   repo: vilois/circlelytics-hugo
   base_url: https://wondrous-llama-f95062.netlify.app/admin
-media_folder: static/img
+media_folder: assets/img
 public_folder: /img
 collections:
   - name: "posts_2020"
