@@ -28,8 +28,8 @@
                     <h6 class="text-muted link-underline">{{ i18n "readMore" }} <i class="bi bi-arrow-right"></i></h6>
                 </div>
             </div>
-
-            {{ with partial "get_image" . }}
+d
+            {{ with partial "get_image" . }}a
             <img src="{{ ( .Resize " 500x" ).RelPermalink }}" alt="{{ .Title }}"
                 class="card-img-bottom img-fluid lazyload">
             {{ end }}
