@@ -1,3 +1,7 @@
 [build]
   command = "hugo"
   publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.124.1" # or another known-good version
+  HUGO_EXTENDED = "true"
