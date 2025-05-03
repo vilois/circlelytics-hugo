@@ -5,7 +5,7 @@ date: 2023-12-31
 tags:
   - hugo
   - blog
-image: assets/img/blog-img-1.png
+image: /img/brainheart.jpg
 featured: true
 ---
 How do you design your leadership development program? How do you evaluate and – most important – how do you redesign these programs?
