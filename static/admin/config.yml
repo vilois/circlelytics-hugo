@@ -29,4 +29,6 @@ collections:
         name: "contact"
         fields:
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "string", required: false }
+          - { label: "Type", name: "type", widget: "string", required: false }
           - { label: "Body", name: "body", widget: "markdown" }

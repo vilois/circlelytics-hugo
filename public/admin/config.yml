@@ -21,12 +21,14 @@ collections:
       - { label: "Image", name: "image", widget: "image", required: false }
       - { label: "Featured", name: "featured", widget: "boolean", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "contact"
-    label: "Contact"
-    folder: "contact"
-    create: true
-    slug: "{{slug}}"
-    extension: "md"
-    format: "frontmatter"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/contact/index.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "string", required: false }
+          - { label: "Type", name: "type", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
