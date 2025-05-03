@@ -7,7 +7,7 @@ media_folder: static/img
 public_folder: /img
 collections:
   - name: "posts"
-    label: "Posts"
+    label: "Posts / 2020"
     folder: "content/post/2020"
     create: true
     slug: "{{slug}}"
