@@ -23,7 +23,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "contact"
     label: "Contact"
-    folder: "contact"
+    folder: "content/contact"
     create: true
     slug: "{{slug}}"
     extension: "md"
