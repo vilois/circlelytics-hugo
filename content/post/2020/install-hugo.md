@@ -1,9 +1,11 @@
 ---
-title: Install Hugo in Windows
+title: Insights that matter to design and redesign your Leadership Development Program
+Description: ""
 date: 2023-12-31
-tags: ["hugo","blog"]
-image : "/img/posts/img-1.jpg"
-Description  : "In this guide, we'll walk through installing Hugo, a popular static site generator. Whether you’re new to static site development or transitioning from another tool, we’ll cover the essential steps to get Hugo up and running."
+tags:
+  - hugo
+  - blog
+image: /img/posts/img-1.jpg
 featured: true
 ---
 
