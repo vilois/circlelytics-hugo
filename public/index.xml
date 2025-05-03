@@ -1,229 +1,161 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tella</title><link>https://wondrous-llama-f95062.netlify.app/</link><description>Recent content on Tella</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 01 May 2025 13:28:09 +0200</lastBuildDate><atom:link href="https://wondrous-llama-f95062.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Example Project</title><link>https://wondrous-llama-f95062.netlify.app/products/example/</link><pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/products/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p></description></item><item><title>My First Post</title><link>https://wondrous-llama-f95062.netlify.app/posts/my-first-post/</link><pubDate>Thu, 01 May 2025 13:28:09 +0200</pubDate><guid>https://wondrous-llama-f95062.netlify.app/posts/my-first-post/</guid><description>&lt;p>This is my first post sadfjsdakjlfdsaf and again a new file&lt;/p></description></item><item><title>Markdown Syntax Guide</title><link>https://wondrous-llama-f95062.netlify.app/blog/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item><item><title>Rich Content</title><link>https://wondrous-llama-f95062.netlify.app/blog/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/rich-content/</guid><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p></description></item><item><title>Placeholder Text</title><link>https://wondrous-llama-f95062.netlify.app/blog/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/placeholder-text/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p></description></item><item><title>Math Typesetting</title><link>https://wondrous-llama-f95062.netlify.app/blog/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p></description></item><item><title>Emoji Support</title><link>https://wondrous-llama-f95062.netlify.app/blog/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/emoji-support/</guid><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p></description></item><item><title>Fancy App 1</title><link>https://wondrous-llama-f95062.netlify.app/itemized/item1/</link><pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/itemized/item1/</guid><description>&lt;h2 id="app-1">App 1&lt;/h2></description></item><item><title>Fancy App 2</title><link>https://wondrous-llama-f95062.netlify.app/itemized/item2/</link><pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/itemized/item2/</guid><description>&lt;h2 id="app-2">App 2&lt;/h2></description></item><item><title>Fancy App 3</title><link>https://wondrous-llama-f95062.netlify.app/itemized/item3/</link><pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/itemized/item3/</guid><description>&lt;h2 id="app-3">App 3&lt;/h2></description></item><item><title>Fancy App 4</title><link>https://wondrous-llama-f95062.netlify.app/itemized/item4/</link><pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/itemized/item4/</guid><description>&lt;h2 id="app-4">App 4&lt;/h2></description></item><item><title>Creating a New Theme</title><link>https://wondrous-llama-f95062.netlify.app/blog/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p>
-&lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>https://wondrous-llama-f95062.netlify.app/blog/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="http://golang.org/">go&lt;/a> &lt;a href="http://golang.org/pkg/html/template/">html/template&lt;/a> library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in go templates.&lt;/p>
-&lt;p>This document is a brief primer on using go templates. The &lt;a href="http://golang.org/pkg/html/template/">go docs&lt;/a>
-provide more details.&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>https://wondrous-llama-f95062.netlify.app/blog/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">Step 1. Install Hugo&lt;/h2>
-&lt;p>Go to &lt;a href="https://github.com/spf13/hugo/releases">hugo releases&lt;/a> and download the
-appropriate version for your os and architecture.&lt;/p>
-&lt;p>Save it somewhere specific as we will be using it in the next step.&lt;/p>
-&lt;p>More complete instructions are available at &lt;a href="https://wondrous-llama-f95062.netlify.app/overview/installing/">installing hugo&lt;/a>&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>https://wondrous-llama-f95062.netlify.app/blog/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/blog/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">Move static content to &lt;code>static&lt;/code>&lt;/h2>
-&lt;p>Jekyll has a rule that any directory not starting with &lt;code>_&lt;/code> will be copied as-is to the &lt;code>_site&lt;/code> output. Hugo keeps all static content under &lt;code>static&lt;/code>. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p>
-&lt;pre>&lt;code>▾ &amp;lt;root&amp;gt;/
- ▾ images/
- logo.png
-&lt;/code>&lt;/pre></description></item><item><title/><link>https://wondrous-llama-f95062.netlify.app/about/index-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/about/index-zh/</guid><description>&lt;h2 id="关于我">关于我&lt;/h2>
-&lt;p>Hi，我是赵化冰，服务网格技术布道者及实践者，&lt;a href="https://cloud.tencent.com/product/tcm">腾讯云&lt;/a>工程师，曾担任&lt;a href="https://www.zte.com.cn/">中兴通讯&lt;/a>技术专家，Linux 基金会开源项目 &lt;a href="https://www.onap.org/">ONAP&lt;/a> 项目 leader，甲骨文中间件高级顾问等。我创建了服务网格开源项目 &lt;a href="https://aeraki.net">Aeraki Mesh&lt;/a>（CNCF Sandbox 项目），可以在 Istio 中管理 Dubbo、Thrift、Redis 以及任意私有协议的流量。&lt;/p>
-&lt;p>工作联系： &lt;a href="mailto:zhaohuabing@gmail.com">zhaohuabing@gmail.com&lt;/a>&lt;/p>
-&lt;h2 id="出版物">出版物&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>标题&lt;/th>
- &lt;th>类型&lt;/th>
- &lt;th>出版社&lt;/th>
- &lt;th>链接&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;a href="https://www.zhaohuabing.com/post/2021-08-26-istio-handbook/">深入理解 Istio — 云原生服务网格进阶实战&lt;/a>&lt;/td>
- &lt;td>实体书籍&lt;/td>
- &lt;td>电子工业出版社&lt;/td>
- &lt;td>&lt;a href="https://item.jd.com/13200745.html">购买链接&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://www.zhaohuabing.com/post/2021-09-08-distributed-tracing-with-jaeger-kubernetes-and-istio/">Distributed Tracing with Jaeger, Kubernetes, and Istio&lt;/a>&lt;/td>
- &lt;td>在线教程&lt;/td>
- &lt;td>&lt;a href="https://www.manning.com/">曼宁出版社（美）&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.manning.com/liveprojectseries/distributed-tracing-ser">30% 折扣&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://zhaohuabing.com/post/2021-08-27-cloud-native-data-center">云原生数据中心网络&lt;/a>&lt;/td>
- &lt;td>翻译书籍&lt;/td>
- &lt;td>中国电力出版社&lt;/td>
- &lt;td>&lt;a href="https://item.jd.com/12929975.html">购买链接&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://istio-operation-bible.aeraki.net">Istio 运维实战&lt;/a>&lt;/td>
- &lt;td>电子书籍&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;a href="https://istio-operation-bible.aeraki.net">在线阅读&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="演讲分享-部分">演讲分享 (部分)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>年份&lt;/th>
- &lt;th>城市&lt;/th>
- &lt;th>会议&lt;/th>
- &lt;th>分享主题&lt;/th>
- &lt;th>讲稿&lt;/th>
- &lt;th>视频&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>2022&lt;/td>
- &lt;td>线上&lt;/td>
- &lt;td>&lt;a href="https://events.istio.io/istiocon-2022">IstioCon&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://events.istio.io/istiocon-2022/sessions/tencent-music-aeraki/">Istio + Aeraki 在腾讯音乐的服务网格落地&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/tencent-music-service-mesh-practice-with-istio-and-aeraki.pdf">下载&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.youtube.com/watch?v=6t_yPsq4Pi4">观看&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2022&lt;/td>
- &lt;td>线上&lt;/td>
- &lt;td>&lt;a href="https://a2m.msup.com.cn/course?aid=2699&amp;amp;cid=15382">A2M&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://a2m.msup.com.cn/course?aid=2699&amp;amp;cid=15382">全栈服务网格 - Aeraki Mesh 助你在 Istio 服务网格中管理任何七层流量&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/full-stack-service-mesh-a2m-20220422.pdf">下载&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2022&lt;/td>
- &lt;td>线上&lt;/td>
- &lt;td>&lt;a href="https://cloud.tencent.com/developer/salon/live-1403">云原生正发声&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://mp.weixin.qq.com/s/zp9q99mGyH2VD9Dij2owWg">Areaki Mesh 在 2022 冬奥会视频直播应用中的服务网格实践&lt;/a>&lt;/td>
- &lt;td>&lt;a href="http://localhost:1313/img/2022-03-30-aeraki-mesh-winter-olympics-practice/slides.pdf">下载&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://youtu.be/uXxatQTKzW8">观看&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2021&lt;/td>
- &lt;td>线上&lt;/td>
- &lt;td>&lt;a href="https://events.istio.io/istiocon-2021/">IstioCon&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://events.istio.io/istiocon-2021/sessions/how-to-manage-any-layer-7-traffic-in-an-istio-service-mesh/">How to manage any layer-7 traffic in an Istio service mesh?&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/how-to-manage-any-layer-7-traffic-in-istio.pdf">下载&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.youtube.com/watch?v=sBS4utF68d8">观看&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2020&lt;/td>
- &lt;td>线上&lt;/td>
- &lt;td>&lt;a href="https://www.cnbpa.org/">CNBPS&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://cloud.tencent.com/developer/article/1723804">Istio 流量管理原理与协议扩展&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/cnbps2020-istio-aeraki.pdf">下载&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.youtube.com/watch?v=lB5d4qbZqzU">观看&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2019&lt;/td>
- &lt;td>成都&lt;/td>
- &lt;td>&lt;a href="https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/">Service Mesher Meetup&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://cloudnative.to/blog/service-mesh-meetup-chengdu-20191028/">Service Mesh是下一代SDN吗？&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/what-can-service-mesh-learn-from-sdn-servicemesher-meetup-20191026.pdf">下载&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://youtu.be/nGkxp-2OsKg">观看&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2019&lt;/td>
- &lt;td>西安&lt;/td>
- &lt;td>ONAP Workshop&lt;/td>
- &lt;td>基于 5G 网络管理系统的服务网格实践&lt;/td>
- &lt;td>&lt;a href="https://wondrous-llama-f95062.netlify.app/slides/service-mesh-practice-with-5g-management-system-lfn.pdf">下载&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2018&lt;/td>
- &lt;td>南京&lt;/td>
- &lt;td>&lt;a href="https://www.bagevent.com/event/1624048?aId=">GNTC&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.sdnlab.com/22596.html">ONAP 服务网格实践&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2017&lt;/td>
- &lt;td>圣克拉拉&lt;/td>
- &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP+Beijing+Release+Developer+Forum%2C+Dec.+11-13%2C+2017%2C+Santa+Clara%2C+CA+US">NAP Developer Forum&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://onapbeijing2017.sched.com/event/D5q2">MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://wiki.onap.org/display/DW/MSB+Service+Mesh+Planning?preview=%2F20873876%2F20873874%2FMSB+to+Support+Carrier+Grade+ONAP+Microservice+Architecture+with+Service+Mesh.pdf">下载&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2017&lt;/td>
- &lt;td>圣克拉拉&lt;/td>
- &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP@ONS2017">ONS&lt;/a>&lt;/td>
- &lt;td>Microservice Powered Orchestration&lt;/td>
- &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP@ONS2017?preview=%2F3245268%2F3245309%2FMicroservice+Powered+Orchestration+Architecture.pdf">下载&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2017&lt;/td>
- &lt;td>新泽西&lt;/td>
- &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP+Project+Developer+Event%3A+May+2+-+5%2C+2017%2C+Middletown%2C+NJ%2C+USA">ONAP Developer Event&lt;/a>&lt;/td>
- &lt;td>MSB Technical Deep Dive and ONAP Use Cases&lt;/td>
- &lt;td>&lt;a href="https://www.slideshare.net/HuabingZhao/msb-depp-dive/">下载&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2017&lt;/td>
- &lt;td>巴黎&lt;/td>
- &lt;td>&lt;a href="https://wiki.onap.org/display/DW/ONAP+Developer+Event+September+25-28%2C+2017%2C+Paris-Saclay%2C+France">ONAP Developer Event&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://wiki.onap.org/display/DW/September+26-28+Topics#September2628Topics-M2">Microservice Bus Tutorial&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial">下载&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="开源项目">开源项目&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>项目&lt;/th>
- &lt;th>角色&lt;/th>
- &lt;th>网站&lt;/th>
- &lt;th>GitHub&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Aeraki Mesh&lt;/td>
- &lt;td>创建者&lt;/td>
- &lt;td>&lt;a href="https://aeraki.net">https://aeraki.net&lt;/a>&lt;/td>
- &lt;td>&lt;a href="http://github.com/aeraki-mesh">http://github.com/aeraki-mesh&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Istio&lt;/td>
- &lt;td>Contributor&lt;/td>
- &lt;td>&lt;a href="https://istio.io">https://istio.io&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://github.com/istio/istio">https://github.com/istio/istio&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Envoy&lt;/td>
- &lt;td>Contributor&lt;/td>
- &lt;td>&lt;a href="https://www.envoyproxy.io">https://www.envoyproxy.io&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://github.com/envoyproxy/envoy">https://github.com/envoyproxy/envoy&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>ONAP&lt;/td>
- &lt;td>项目 Leader&lt;/td>
- &lt;td>&lt;a href="https://www.onap.org">https://www.onap.org&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>hugo-theme-cleanwhite&lt;/td>
- &lt;td>创建者&lt;/td>
- &lt;td>&lt;a href="https://themes.gohugo.io/themes/hugo-theme-cleanwhite">https://themes.gohugo.io/themes/hugo-theme-cleanwhite&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://github.com/zhaohuabing/hugo-theme-cleanwhite">https://github.com/zhaohuabing/hugo-theme-cleanwhite&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item><item><title/><link>https://wondrous-llama-f95062.netlify.app/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/notes/</guid><description>&lt;h2 id="go-语言学习笔记">&lt;a href="https://zhaohuabing.com/learning-golang">Go 语言学习笔记&lt;/a>&lt;/h2>
-&lt;h2 id="envoy-学习笔记">&lt;a href="https://zhaohuabing.com/learning-envoy">Envoy 学习笔记&lt;/a>&lt;/h2></description></item><item><title/><link>https://wondrous-llama-f95062.netlify.app/search/placeholder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/search/placeholder/</guid><description/></item><item><title>Contact</title><link>https://wondrous-llama-f95062.netlify.app/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/contact/</guid><description>&lt;p>To contact us, please fill out the form below.&lt;/p>
-&lt;form name="contact" action="https://getform.io/" method="POST">
- &lt;div class="input">
- &lt;input type="text" placeholder="Name" name="name" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
- &lt;/div>
- &lt;div class="input">
- &lt;input type="text" placeholder="Email" name="mail" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
- &lt;/div>
- &lt;div class="input">
- &lt;input type="text" placeholder="Title" name="title" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
- &lt;/div>
- &lt;div class="input">
- &lt;textarea rows="5" cols="30" placeholder="Message" name="message" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>&lt;/textarea>
- &lt;/div>
- &lt;input type="submit" value="Submit" class="px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400">
-&lt;/form></description></item><item><title>Posts Archive</title><link>https://wondrous-llama-f95062.netlify.app/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wondrous-llama-f95062.netlify.app/archive/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightbi</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Lightbi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
+    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Hugo in Windows</title>
+      <link>http://localhost:1313/post/2020/install-hugo/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/install-hugo/</guid>
+      <description>&lt;p&gt;Hugo comes in three versions: Standard, Extended, and Extended/Deploy. The Standard edition covers core functionalities, while Extended adds advanced options, with Extended/Deploy** offering further deployment features.&lt;/p&gt;&#xA;&lt;h3 id=&#34;setting-up-your-directories&#34;&gt;Setting Up Your Directories&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Open File Explorer and create a folder, e.g., &lt;code&gt;C:\Hugo&lt;/code&gt;, and inside it, a &lt;code&gt;bin&lt;/code&gt; folder.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;installing-hugo&#34;&gt;Installing Hugo&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Download the latest Hugo executable from &lt;a href=&#34;https://github.com/gohugoio/hugo/releases/&#34;&gt;Hugo releases&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to use Lightbi theme ?</title>
+      <link>http://localhost:1313/post/2020/use-this-theme/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/use-this-theme/</guid>
+      <description>&lt;p&gt;In this post, we&amp;rsquo;ll cover how to install Hugo and set up your first website with the Lightbi theme. For detailed steps, refer to &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo’s quick-start guide&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Create a New Hugo Site&lt;/strong&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new site &amp;lt;name of site&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#999&#34;&gt;cd&lt;/span&gt; &amp;lt;name of site&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git init&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git submodule add https://github.com/binokochumolvarghese/lightbi-hugo themes/lightbi-hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;After completing the steps above, copy the contents of &lt;code&gt;exampleSite/contents&lt;/code&gt; into the &lt;code&gt;content&lt;/code&gt; folder of your website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Features of Lightbi</title>
+      <link>http://localhost:1313/post/2020/features-of-lightbi/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/features-of-lightbi/</guid>
+      <description>&lt;h3 id=&#34;general&#34;&gt;General&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Three Main Content Sections:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Collections&lt;/strong&gt; (Newsletter)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Responsive Design&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built with a &lt;strong&gt;mobile-first approach&lt;/strong&gt; for seamless viewing on any device.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Card-Based Theme&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Flexible image placement options:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Image at the top of the card&lt;/li&gt;&#xA;&lt;li&gt;Image in the middle of the card&lt;/li&gt;&#xA;&lt;li&gt;Image at the bottom of the card&lt;/li&gt;&#xA;&lt;li&gt;No image option&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Menu Location Indicator&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>More about Lightbi</title>
+      <link>http://localhost:1313/post/2020/more-about-lightbi/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/more-about-lightbi/</guid>
+      <description>&lt;h2 id=&#34;wiki&#34;&gt;Wiki&lt;/h2&gt;&#xA;&lt;p&gt;Checkout the &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo/wiki&#34;&gt;wiki&lt;/a&gt; page for detailed documentation of the theme features.&lt;/p&gt;&#xA;&lt;h2 id=&#34;support--contribution&#34;&gt;Support &amp;amp; Contribution&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Star 🌟 this &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo&#34;&gt;repository&lt;/a&gt;&lt;/strong&gt; to show your support!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Help spread the word&lt;/strong&gt; about Hugo Lightbi by sharing it on social media and recommending it to your friends and colleagues.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Found a bug?&lt;/strong&gt; Report it via &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo/issues/new&#34;&gt;GitHub Issues&lt;/a&gt; to help us improve.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Have feature ideas?&lt;/strong&gt; Start a conversation in &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo/discussions&#34;&gt;GitHub Discussions&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Got questions?&lt;/strong&gt; Ask away in our &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo/discussions&#34;&gt;GitHub Discussions&lt;/a&gt; community.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/halogenica/beautifulhugo&#34;&gt;Beautiful Hugo&lt;/a&gt; from which Lightbi was forked.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt; for Images.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;p&gt;This is an adaptation of the &lt;a href=&#34;https://github.com/halogenica/beautifulhugo&#34;&gt;Beautiful Hugo&lt;/a&gt; by &lt;a href=&#34;https://github.com/halogenica&#34;&gt;Michael Romero&lt;/a&gt;. It supports most of the features of the original theme, and many new features. It has diverged from the original theme over time, with several updates.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Hugo Shortcodes</title>
+      <link>http://localhost:1313/post/2020/understanding-hugo-shortcodes/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/understanding-hugo-shortcodes/</guid>
+      <description>&lt;p&gt;Hugo shortcodes are powerful tools for adding custom HTML or other special content within Markdown files without complex code. They enable enhanced flexibility and are a core part of Hugo&amp;rsquo;s functionality, offering reusable snippets for embedding media, custom components, or dynamic content. Below, we’ll explore what shortcodes are and highlight some popular examples.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lightbi Custom Shortcodes</title>
+      <link>http://localhost:1313/post/2020/custom-shortcodes/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/custom-shortcodes/</guid>
+      <description>&lt;p&gt;To create your own shortcodes in Hugo, add an HTML file in layouts/shortcodes/. This theme provides the following useful custom shortcodes:&lt;/p&gt;&#xA;&lt;h3 id=&#34;info-card&#34;&gt;Info card&lt;/h3&gt;&#xA;&lt;p&gt;Displays information in a card format.&lt;/p&gt;&#xA;&lt;h5 id=&#34;shortcode&#34;&gt;Shortcode&lt;/h5&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{/* &amp;lt; info_cards header=&amp;#34;lorem-ipsum&amp;#34; title=&amp;#34;What is Lorem Ipsum?&amp;#34; content=&amp;#34;Lorem Ipsum is simply dummy text of the printing and typesetting industry.&amp;#34; &amp;gt; */}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;output&#34;&gt;Output&lt;/h5&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;card alert alert-primary&#34;&gt;&#xA;        &#xA;        &lt;h5 class=&#34;card-title m-0&#34;&gt;&#xA;            What is Lorem Ipsum?&#xA;        &lt;/h5&gt;&#xA;        &#xA;&#xA;        &lt;p class=&#34;card-text text-muted fs-6 mt-0&#34;&gt;  &#xA;             &#xA;            Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xA;            &#xA;        &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Image Gallery Shortcode</title>
+      <link>http://localhost:1313/post/2020/image-gallery/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/image-gallery/</guid>
+      <description>&lt;div class=&#34;card alert alert-primary&#34;&gt;&#xA;        &#xA;        &lt;h5 class=&#34;card-title m-0&#34;&gt;&#xA;            Experimental feature&#xA;        &lt;/h5&gt;&#xA;        &#xA;&#xA;        &lt;p class=&#34;card-text text-muted fs-6 mt-0&#34;&gt;  &#xA;             &#xA;            This feature is currently in experimental mode, so breaking changes may occur. Please use it carefully.&#xA;            &#xA;        &lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Here’s a custom Hugo shortcode that creates an image gallery in a masonry style using GLightbox, allowing you to specify a folder containing images. This approach will display images from a specified folder in a masonry layout, and each image will open in a lightbox when clicked.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hosting Your Hugo Site on Netlify</title>
+      <link>http://localhost:1313/post/2020/netlify-configuration/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/netlify-configuration/</guid>
+      <description>&lt;p&gt;Hosting a Hugo site on Netlify is an effective solution for deploying static websites, combining Hugo’s speed with Netlify’s robust features like continuous deployment, a user-friendly dashboard, and advanced build settings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parameters in Lightbi</title>
+      <link>http://localhost:1313/post/2020/parameters/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/parameters/</guid>
+      <description>&lt;p&gt;Below is a list of configurable parameters in the Lightbi theme, along with descriptions to help you customize your site effectively. You can be adjust the below parameters in your &lt;code&gt;hugo.toml&lt;/code&gt; file.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.1</title>
+      <link>http://localhost:1313/collections/2023/collections/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/collections/2023/collections/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.2</title>
+      <link>http://localhost:1313/collections/2023/collections2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/collections/2023/collections2/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.3</title>
+      <link>http://localhost:1313/collections/2023/collections3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/collections/2023/collections3/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.4</title>
+      <link>http://localhost:1313/collections/2023/collections4/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/collections/2023/collections4/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.5</title>
+      <link>http://localhost:1313/collections/2023/collections5/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/collections/2023/collections5/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.6</title>
+      <link>http://localhost:1313/collections/2023/collections6/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/collections/2023/collections6/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note 1</title>
+      <link>http://localhost:1313/notes/2020/change/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/notes/2020/change/</guid>
+      <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note 2</title>
+      <link>http://localhost:1313/notes/2020/change2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/notes/2020/change2/</guid>
+      <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note 3</title>
+      <link>http://localhost:1313/notes/2020/change3/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/notes/2020/change3/</guid>
+      <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is Markdown ?</title>
+      <link>http://localhost:1313/post/2020/markdown/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/markdown/</guid>
+      <description>&lt;h3 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h3&gt;&#xA;&lt;p&gt;Markdown is a lightweight, plain-text formatting language used for creating styled text through simple, readable syntax. Developed by John Gruber in 2004, its goal is to allow writers to format documents without complex code, making it easy to read and edit. The beauty of Markdown lies in its simplicity, allowing creators to add headings, lists, images, links, and more by typing a few symbols around their text.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/post/2020/syntax/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/syntax/</guid>
+      <description>&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;&#xA;&lt;p&gt;To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.g., ### My Header).&#xA; &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who am I ?!</title>
+      <link>http://localhost:1313/post/2020/who-am-i/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2020/who-am-i/</guid>
+      <description>&lt;p&gt;Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.&lt;/p&gt;&#xA;&lt;p&gt;As a child, the answer to this question was simple. Say my name to the question of who. Aha ..! Simple and beautiful. In that answer, parents and siblings in adolescence. I thought to myself that the answer was too clear.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
