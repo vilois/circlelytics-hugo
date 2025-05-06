@@ -18,7 +18,7 @@ window.addEventListener("DOMContentLoaded", () => {
 // The user defined theme does take precedence, so if the
 // changed the browser theme, forget previous preference.
 window
-  .matchMedia("(prefers-color-scheme: dark)")
+  .matchMedia("(prefers-color-scheme: light)")
   .addEventListener("change", () => {
     delete localStorage["dark-mode-storage"];
     updateTheme();
@@ -35,7 +35,7 @@ function updateTheme() {
   if (userPreference == "dark" || userPreference == "light")
     setTheme(userPreference);
   else
-    setTheme(window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    setTheme(window.matchMedia("(prefers-color-scheme: dark)").matches ? "light" : "dark");
 }
 
 function setTheme(mode) {

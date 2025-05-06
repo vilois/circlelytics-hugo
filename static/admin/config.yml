@@ -24,6 +24,12 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
+      - file: "content/_index.md"        
+        label: "Homepage"
+        name: "homepage"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - file: "content/contact/_index.md"
         label: "Contact"
         name: "contact"
@@ -31,10 +37,4 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Layout", name: "layout", widget: "string", required: false }
           - { label: "Type", name: "type", widget: "string", required: false }
-          - { label: "Body", name: "body", widget: "markdown" }
-      - file: "content/_index.md"         # 👈 Add this block
-        label: "Homepage"
-        name: "homepage"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "markdown" }    
