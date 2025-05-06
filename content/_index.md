@@ -3,7 +3,7 @@ title: Home
 ---
 ## We enable conscious leaders to unleash people's collective knowledge, openness to change, and overcome organizational challenges.
 
-
+![Continious dialogue](/img/continual-dialogue-model-768x450.png)
 
 Leadership today isn’t just about making decisions—it’s about making the right ones, together. And in a world where 77% of CEOs rank managing complexity as a high priority, those who fail to engage and embrace the wisdom of their people risk falling behind.
 
