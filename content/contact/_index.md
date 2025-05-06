@@ -3,6 +3,10 @@ title: About
 layout: about
 type: tags
 ---
+![](/img/circleytics-numbers.png)
+
+
+
 Our vision is simple: we foster collaborative learning and collective intelligence & creativity. For this we’ve invented and continuously develop our platform CircleLytics Dialogue.
 
 * Trust: Our technology and solutions allow people to be questioned and truly listened to in an innovative way, which results in gaining collective knowledge, a sense of alertness and they will feel they’re being taken seriously.
