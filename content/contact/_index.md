@@ -3,9 +3,9 @@ title: About
 layout: about
 type: tags
 ---
+
+
 ![](/img/circleytics-numbers.png)
-
-
 
 Our vision is simple: we foster collaborative learning and collective intelligence & creativity. For this we’ve invented and continuously develop our platform CircleLytics Dialogue.
 
