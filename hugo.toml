@@ -1,4 +1,4 @@
-baseURL = "https://wondrous-llama-f95062.netlify.app/"
+baseURL = "https://hugo.circlelytics.com"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 languageCode = "en-us"

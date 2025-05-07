@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master 
   repo: vilois/circlelytics-hugo
-  base_url: https://wondrous-llama-f95062.netlify.app/admin
+  base_url: https://hugo.circlelytics.com/admin
 media_folder: "static/img"
 public_folder: "/img"
 collections:  
