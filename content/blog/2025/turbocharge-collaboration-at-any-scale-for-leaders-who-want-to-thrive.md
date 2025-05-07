@@ -1,7 +1,7 @@
 ---
 title: Turbocharge collaboration at any scale. For Leaders who want to thrive.
 Description: Turbocharge collaboration at any scale. For Leaders who want to thrive.
-date: 2025-05-07T15:01:00.000Z
+date: 2025-05-06T17:01:00.000Z
 image: /img/continual-dialogue-model.png
 featured: true
 ---
