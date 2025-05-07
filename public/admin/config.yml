@@ -6,9 +6,9 @@ backend:
 media_folder: "static/img"
 public_folder: "/img"
 collections:  
-  - name: "posts_2020"
-    label: "Posts / 2020" 
-    folder: "content/post/2020"
+  - name: "posts_2025"
+    label: "Posts / 2025" 
+    folder: "content/blog/2025"
     create: true
     slug: "{{slug}}"
     extension: "md"
@@ -30,14 +30,6 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file: "content/contact/_index.md"
-        label: "Contact"
-        name: "contact"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Layout", name: "layout", widget: "string", required: false }
-          - { label: "Type", name: "type", widget: "string", required: false }
-          - { label: "Body", name: "body", widget: "markdown" }  
       - file: "content/vision/_index.md"
         label: "Vision"
         name: "vision"
@@ -45,4 +37,28 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Layout", name: "layout", widget: "string", required: false }
           - { label: "Type", name: "type", widget: "string", required: false }
-          - { label: "Body", name: "body", widget: "markdown" }    
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/impact/_index.md"
+        label: "Impact"
+        name: "impact"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "string", required: false }
+          - { label: "Type", name: "type", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/product/_index.md"
+        label: "Product"
+        name: "product"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "string", required: false }
+          - { label: "Type", name: "type", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/contact/_index.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "string", required: false }
+          - { label: "Type", name: "type", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }      
