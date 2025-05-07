@@ -82,24 +82,29 @@ showPostImage = false
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
+    name = "Our vision"
+    url = "/vision/"
     weight = 2
 
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
+    name = "Your impact"
+    url = "/impact/"
     weight = 3
 
 [[menu.main]]
-    name = "Collections"
-    url = "/collections/"
+    name = "Product"
+    url = "/product/"
     weight = 4
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
 
 
 [sitemap]

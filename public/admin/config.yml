@@ -37,4 +37,12 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Layout", name: "layout", widget: "string", required: false }
           - { label: "Type", name: "type", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "markdown" }  
+      - file: "content/vision/_index.md"
+        label: "Vision"
+        name: "vision"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "string", required: false }
+          - { label: "Type", name: "type", widget: "string", required: false }
           - { label: "Body", name: "body", widget: "markdown" }    
