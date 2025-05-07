@@ -44,7 +44,7 @@ exports.handler = async (event) => {
     const transporter = nodemailer.createTransport(smtpConfig);
 
     const mailOptions = {
-      from: `"Your Website" <${process.env.SMTP_USER}>`,
+      from: `"Circleytics" <${process.env.SMTP_USER}>`,
       to: email,
       subject: "Thank you for contacting us!",
       text: `Hi ${name},\n\nWe received your message:\n"${message}"\n\nWe'll be in touch shortly.\n\n– Team`,
