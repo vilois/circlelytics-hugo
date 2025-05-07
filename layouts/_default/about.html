@@ -12,7 +12,13 @@
                     {{.}}
                     {{ end }}
 
-                    <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/.netlify/functions/submission-created" onsubmit="disableButton(this)" netlify>
+                    <form
+                    name="contact"
+                    method="POST"
+                    action="/.netlify/functions/submission-created" 
+                    data-netlify="true"
+                    netlify-honeypot="bot-field"
+                    onsubmit="disableButton(this)">
 
                         <input type="hidden" name="form-name" value="contact">
 
