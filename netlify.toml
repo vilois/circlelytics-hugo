@@ -8,3 +8,9 @@
 
 [functions]
   directory = "netlify/functions"
+
+[[redirects]]
+  from = "/contact"
+  to = "/.netlify/functions/submission-created"
+  method = "POST"
+  status = 200
