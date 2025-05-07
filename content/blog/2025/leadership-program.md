@@ -1,7 +1,8 @@
 ---
 title: Insights that matter to design and redesign your Leadership Development Program
-Description: ""
+Description: "Insights that matter to design and redesign your Leadership Development Program"
 date: 2023-12-31
+draft: false
 tags:
   - hugo
   - blog
