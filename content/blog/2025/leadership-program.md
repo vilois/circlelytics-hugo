@@ -5,7 +5,7 @@ date: 2025-05-06T00:00:00.000Z
 tags:
   - hugo
   - blog
-image: /img/maurik.png
+image: /img/blog-img-1.png
 featured: true
 ---
 How do you design your leadership development program? How do you evaluate and – most important – how do you redesign these programs?
