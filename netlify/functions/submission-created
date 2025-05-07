@@ -1,0 +1,51 @@
+createdconst nodemailer = require("nodemailer");
+
+const submissionTimestamps = new Map(); // key: email, value: timestamp
+
+exports.handler = async (event) => {
+  const data = JSON.parse(event.body).payload;
+  const { name, email, message } = data.data;
+
+  // === Rate limit: 1 submission per 5 minutes per email ===
+  const now = Date.now();
+  const last = submissionTimestamps.get(email);
+  if (last && now - last < 5 * 60 * 1000) {
+    return {
+      statusCode: 429,
+      body: "You have already submitted recently. Please wait a few minutes.",
+    };
+  }
+  submissionTimestamps.set(email, now);
+
+  // === SMTP Transport ===
+  const transporter = nodemailer.createTransport({
+    host: process.env.SMTP_HOST,
+    port: parseInt(process.env.SMTP_PORT),
+    secure: process.env.SMTP_SECURE === "true",
+    auth: {
+      user: process.env.SMTP_USER,
+      pass: process.env.SMTP_PASS,
+    },
+  });
+
+  const mailOptions = {
+    from: `"Your Website" <${process.env.SMTP_USER}>`,
+    to: email,
+    subject: "Thank you for contacting us!",
+    text: `Hi ${name},\n\nWe received your message:\n"${message}"\n\nWe'll be in touch shortly.\n\n– Team`,
+  };
+
+  try {
+    await transporter.sendMail(mailOptions);
+    return {
+      statusCode: 200,
+      body: "Confirmation email sent.",
+    };
+  } catch (err) {
+    console.error("Mail send error:", err);
+    return {
+      statusCode: 500,
+      body: "Failed to send confirmation email.",
+    };
+  }
+};
