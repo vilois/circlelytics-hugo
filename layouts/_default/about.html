@@ -1,45 +1,85 @@
-
 {{ define "main" }}
 
-<div class="about-section">
-    <div class="container">
-        <div class="row flex-lg-row-reverse align-items-center">
-            <div class="col-md-8 col-lg-4">
+<div class="about-section py-5">
+  <div class="container">
+    <div class="row flex-lg-row-reverse align-items-center">
+      <div class="col-md-8 col-lg-4">
+        <!-- Optional content here -->
+      </div>
+      <div class="col-md-8 col-lg-8">
+        <div class="col-12">
+          {{ with .Content }}
+            {{ . }}
+          {{ end }}
+
+          <form
+            name="contact"
+            method="POST"
+            action="success"
+            data-netlify="true"
+            netlify-honeypot="bot-field"
+            onsubmit="disableButton(this)"
+            class="needs-validation"
+            novalidate
+          >
+            <input type="hidden" name="form-name" value="contact" />
+
+            <!-- Honeypot field -->
+            <div class="d-none">
+              <label for="bot-field" class="form-label">Don’t fill this out:</label>
+              <input id="bot-field" name="bot-field" type="text" class="form-control" />
             </div>
-            <div class="col-md-8 col-lg-8">
-                <div class="col-12">
-                    {{ with .Content }}
-                    {{.}}
-                    {{ end }}
 
-                    <form
-                    name="contact"
-                    method="POST"
-                    action="success" 
-                    data-netlify="true"
-                    netlify-honeypot="bot-field"
-                    onsubmit="disableButton(this)">
-
-                        <input type="hidden" name="form-name" value="contact">
-
-                        <!-- Honeypot field -->
-                        <p hidden>
-                            <label>Don’t fill this out: <input name="bot-field" /></label>
-                        </p>
-
-                        <!-- Visible fields -->
-                        <p><label>Name: <input type="text" name="name" required></label></p>
-                        <p><label>Email: <input type="email" name="email" required></label></p>
-                        <p><label>Message: <textarea name="message" required></textarea></label></p>
-
-                        <p><button type="submit">Send</button></p>
-                    </form>
-                </div>
+            <!-- Name -->
+            <div class="mb-3">
+              <label for="name" class="form-label">Name</label>
+              <input id="name" name="name" type="text" class="form-control" required />
+              <div class="invalid-feedback">Please enter your name.</div>
             </div>
+
+            <!-- Email -->
+            <div class="mb-3">
+              <label for="email" class="form-label">Email</label>
+              <input id="email" name="email" type="email" class="form-control" required />
+              <div class="invalid-feedback">Please enter a valid email address.</div>
+            </div>
+
+            <!-- Message -->
+            <div class="mb-3">
+              <label for="message" class="form-label">Message</label>
+              <textarea id="message" name="message" class="form-control" rows="5" required></textarea>
+              <div class="invalid-feedback">Please enter your message.</div>
+            </div>
+
+            <!-- Submit -->
+            <button type="submit" class="btn btn-primary">Send</button>
+          </form>
         </div>
+      </div>
     </div>
-
-
+  </div>
 </div>
+
 <script src="/js/form.js"></script>
+<script>
+  // Bootstrap form validation styling
+  (function () {
+    'use strict';
+    const forms = document.querySelectorAll('.needs-validation');
+    Array.prototype.slice.call(forms).forEach(function (form) {
+      form.addEventListener(
+        'submit',
+        function (event) {
+          if (!form.checkValidity()) {
+            event.preventDefault();
+            event.stopPropagation();
+          }
+          form.classList.add('was-validated');
+        },
+        false
+      );
+    });
+  })();
+</script>
+
 {{ end }}
