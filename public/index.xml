@@ -157,5 +157,12 @@
       <guid>http://localhost:1313/post/2020/who-am-i/</guid>
       <description>&lt;p&gt;Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.&lt;/p&gt;&#xA;&lt;p&gt;As a child, the answer to this question was simple. Say my name to the question of who. Aha ..! Simple and beautiful. In that answer, parents and siblings in adolescence. I thought to myself that the answer was too clear.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Success</title>
+      <link>http://localhost:1313/success.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/success.html</guid>
+      <description>&lt;p&gt;Thank you for your message. We&amp;rsquo;ll get back to you soon.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
