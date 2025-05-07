@@ -5,10 +5,12 @@ date: 2023-12-31
 tags:
   - hugo
   - blog
-image: /img/brainheart.jpg
+image: /img/maurik.png
 featured: true
 ---
 How do you design your leadership development program? How do you evaluate and – most important – how do you redesign these programs?
+
+![](/img/maurik.png)
 
 Some of the key characteristics of a successful leadership development program are:
 
