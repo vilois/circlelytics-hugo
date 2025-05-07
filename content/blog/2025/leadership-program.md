@@ -1,7 +1,7 @@
 ---
 title: Insights that matter to design and redesign your Leadership Development Program
 Description: ""
-date: 2023-12-31
+date: 2025-05-06T00:00:00.000Z
 tags:
   - hugo
   - blog
