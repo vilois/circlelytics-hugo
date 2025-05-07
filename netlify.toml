@@ -14,3 +14,8 @@
   to = "/.netlify/functions/submission-created"
   method = "POST"
   status = 200
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = ""
