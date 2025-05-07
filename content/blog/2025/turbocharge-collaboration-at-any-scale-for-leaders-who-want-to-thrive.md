@@ -1,7 +1,8 @@
 ---
 title: Turbocharge collaboration at any scale. For Leaders who want to thrive.
 Description: Turbocharge collaboration at any scale. For Leaders who want to thrive.
-date: 2025-05-07T14:56:00.000Z
+date: 2025-05-07T15:01:00.000Z
+image: /img/continual-dialogue-model.png
 featured: true
 ---
 All leaders are currently engulfed by a business world which is constantly defined by new developments and disruptions. How can business leaders effectively engage with these often overwhelmingly big and complex business challenges? By discovering the hidden potential in your own organization to identify advantageous paths forward.
