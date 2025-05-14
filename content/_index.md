@@ -1,10 +1,7 @@
 ---
 title: Home
 home_head:
-  catch_words:
-    - analyze
-    - solve
-    - predict
+  catch_words: []
 ---
 ## We enable conscious leaders to unleash people's collective knowledge, openness to change, and overcome organizational challenges..
 
