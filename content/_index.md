@@ -6,7 +6,7 @@ home_head:
     - solve
     - predict
 ---
-## We enable conscious leaders to unleash people's collective knowledge, openness to change, and overcome organizational challenges.
+## We enable conscious leaders to unleash people's collective knowledge, openness to change, and overcome organizational challenges..
 
 ![Continious dialogue](/img/continual-dialogue-model.png)
 
